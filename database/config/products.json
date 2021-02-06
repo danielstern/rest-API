@@ -1,0 +1,1982 @@
+[
+  {
+    "SKU": "9a59cca8-2698-4aab-be28-c1de1274997d",
+    "price": 91.12,
+    "productFamily": "Shane's-Hat",
+    "brand": "Shane's",
+    "type": "Hat",
+    "color": "White",
+    "size": "Extra Large",
+    "quantity": 3,
+    "shortDescription": "Adipisicing magna elit anim deserunt fugiat irure incididunt ipsum.",
+    "longDescription": "Exercitation laborum et magna commodo officia anim aliqua sunt adipisicing enim esse. Tempor est Lorem exercitation eu occaecat eiusmod elit laborum. Aliqua elit officia ipsum laborum adipisicing labore et in cillum. Consequat ea non occaecat ut est dolore occaecat magna eiusmod proident nostrud. Adipisicing aliquip dolor ut laborum laborum proident do eu magna nulla culpa sunt deserunt. Non voluptate cupidatat eu ullamco. Commodo commodo non esse consequat elit ea qui culpa voluptate reprehenderit ut. Do velit minim eu nisi sit qui.",
+    "mainImage": {
+      "url": "do.png"
+    },
+    "images": [
+      {
+        "url": "irure.png",
+        "description": "Culpa aute tempor ad consectetur sint sit id aute mollit aliqua nisi ipsum aliqua. Eu aute excepteur quis velit consequat qui sit exercitation exercitation aliquip et dolor."
+      },
+      {
+        "url": "culpa.png",
+        "description": "Ea exercitation deserunt pariatur qui veniam do. Adipisicing aliqua Lorem laboris velit aute culpa qui nulla."
+      },
+      {
+        "url": "ex.png",
+        "description": "Proident nostrud deserunt consectetur voluptate excepteur Lorem anim tempor. Aute culpa adipisicing quis voluptate."
+      },
+      {
+        "url": "enim.png",
+        "description": "Sunt occaecat incididunt qui commodo sint anim in. Duis dolor minim sunt ex non."
+      }
+    ]
+  },
+  {
+    "SKU": "2afe2902-141e-4f11-846f-72c46252252f",
+    "price": 77.1,
+    "productFamily": "Veggies of the Spinning Wheel-Hat",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "Hat",
+    "color": "Pink",
+    "size": "Large",
+    "quantity": 0,
+    "shortDescription": "Nulla laborum qui fugiat est sunt velit anim tempor ad aliquip incididunt aute.",
+    "longDescription": "Laboris exercitation incididunt aute fugiat ex sunt ad tempor ea voluptate consectetur cupidatat irure. Do cupidatat occaecat enim ipsum dolore ea anim. Reprehenderit nostrud labore non ullamco dolore adipisicing aliqua ullamco dolore elit velit voluptate elit. Esse labore ex esse pariatur ea occaecat cupidatat nostrud sit Lorem deserunt cillum aliquip consectetur. Pariatur non excepteur proident cillum tempor officia elit occaecat pariatur. Magna irure nostrud ex duis sint tempor sit sunt sint est. Pariatur duis in eu nostrud id. Amet laboris labore amet magna aute quis dolor ut do ad enim.",
+    "mainImage": {
+      "url": "laboris.png"
+    },
+    "images": [
+      {
+        "url": "consectetur.png",
+        "description": "Laboris velit consequat officia incididunt. Amet exercitation elit irure incididunt enim consequat officia quis ea officia dolor."
+      },
+      {
+        "url": "id.png",
+        "description": "Do dolore eiusmod labore aute do velit sunt dolor exercitation. Veniam Lorem voluptate fugiat nisi culpa et consequat veniam nulla."
+      },
+      {
+        "url": "qui.png",
+        "description": "Excepteur esse consequat cupidatat commodo ea laborum exercitation nostrud officia culpa elit. Eu occaecat proident elit qui ullamco aliquip labore sit incididunt occaecat qui non."
+      },
+      {
+        "url": "dolore.png",
+        "description": "Qui nostrud non ut eu sint eu anim in irure. Amet consectetur dolor reprehenderit nisi mollit."
+      }
+    ]
+  },
+  {
+    "SKU": "010a7bb4-8304-4cb8-b670-e7b9471209ff",
+    "price": 5.61,
+    "productFamily": "Veggies of the Spinning Wheel-Sweater",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "Sweater",
+    "color": "Orange",
+    "size": "Small",
+    "quantity": 0,
+    "shortDescription": "Voluptate sunt sunt cupidatat aliquip.",
+    "longDescription": "Proident duis pariatur nostrud ut occaecat proident sunt exercitation sint ullamco id. Est enim consequat aliqua aliqua sint ipsum proident. Ipsum sit ut aliquip mollit sunt. Incididunt do irure sit mollit aute adipisicing commodo velit ex reprehenderit dolor sunt mollit. Nisi excepteur tempor amet et exercitation. Sunt velit dolor incididunt enim aliqua culpa esse sit veniam voluptate proident magna sunt. Irure Lorem tempor ullamco enim adipisicing proident sunt duis irure anim sunt dolor qui pariatur. Excepteur sint pariatur aliquip irure excepteur ea incididunt aute sint ipsum dolor.",
+    "mainImage": {
+      "url": "sunt.png"
+    },
+    "images": [
+      {
+        "url": "sint.png",
+        "description": "Veniam aliqua aliqua elit excepteur nostrud et eu labore consequat. Non laborum sit excepteur qui aliqua tempor irure tempor consectetur sit culpa."
+      },
+      {
+        "url": "ad.png",
+        "description": "Duis id incididunt anim aliquip adipisicing. Labore id id dolore deserunt veniam proident enim."
+      },
+      {
+        "url": "dolor.png",
+        "description": "Dolore aliqua duis esse ex adipisicing enim eiusmod. Nulla irure elit aliquip sit."
+      },
+      {
+        "url": "laborum.png",
+        "description": "Et ipsum quis officia id ea elit magna Lorem excepteur nisi adipisicing consequat sit ullamco. Nostrud exercitation non quis dolor ipsum in cupidatat voluptate exercitation."
+      }
+    ]
+  },
+  {
+    "SKU": "497148dd-5984-4453-90b6-942c9017efb1",
+    "price": 40.61,
+    "productFamily": "Dilgan-Hat",
+    "brand": "Dilgan",
+    "type": "Hat",
+    "color": "Black",
+    "size": "Large",
+    "quantity": 3,
+    "shortDescription": "Id quis amet ipsum sit eu.",
+    "longDescription": "Labore occaecat et voluptate non anim irure tempor id amet aute. Ad culpa pariatur minim cillum quis ad amet ea anim ea eu ullamco. Amet exercitation duis culpa tempor esse id qui et id. Ullamco velit voluptate incididunt aute est ipsum dolor eiusmod ex. Veniam proident excepteur adipisicing quis dolore aliquip. Laboris elit sint laborum nisi enim ipsum cupidatat magna. Culpa nisi id fugiat commodo nisi aliqua sint sint sit sit sunt ea. Cupidatat labore culpa commodo nisi tempor esse.",
+    "mainImage": {
+      "url": "incididunt.png"
+    },
+    "images": [
+      {
+        "url": "qui.png",
+        "description": "Magna laboris officia consectetur laboris aliqua in. Aute exercitation non duis ex commodo id amet nisi consequat."
+      },
+      {
+        "url": "ipsum.png",
+        "description": "Mollit aliquip cupidatat enim dolore laborum do sit id veniam minim elit non laborum. Reprehenderit Lorem laboris fugiat consectetur eu laboris eiusmod consequat."
+      },
+      {
+        "url": "officia.png",
+        "description": "Amet amet officia cupidatat et fugiat ut Lorem irure occaecat sunt. Esse in non nostrud nostrud in est reprehenderit ea do."
+      },
+      {
+        "url": "culpa.png",
+        "description": "Commodo adipisicing anim ullamco in excepteur fugiat eiusmod cupidatat excepteur voluptate sit. Lorem amet occaecat nisi est laborum."
+      }
+    ]
+  },
+  {
+    "SKU": "3f89555f-e5f5-4d4a-adf3-1803cc4548b6",
+    "price": 85.65,
+    "productFamily": "Dilgan-Sweater",
+    "brand": "Dilgan",
+    "type": "Sweater",
+    "color": "Navy",
+    "size": "Medium",
+    "quantity": 0,
+    "shortDescription": "Labore non qui nulla non ad laborum enim aliquip sunt Lorem.",
+    "longDescription": "Amet ullamco qui nisi laborum ea mollit. Minim tempor excepteur consectetur quis est aute laborum sunt mollit labore. Id nisi est aute nulla mollit aliquip. Ad magna adipisicing magna sit consectetur cillum aliquip tempor minim velit reprehenderit elit nulla anim. Id elit culpa mollit culpa magna. Aliquip laborum deserunt nisi sunt amet eiusmod amet in occaecat commodo voluptate tempor deserunt fugiat. Voluptate quis cupidatat ipsum veniam magna esse enim quis labore id dolor amet sunt. Do commodo nisi anim ea culpa non ea sunt.",
+    "mainImage": {
+      "url": "consectetur.png"
+    },
+    "images": [
+      {
+        "url": "laborum.png",
+        "description": "Veniam ex velit labore id occaecat labore. Nostrud fugiat Lorem Lorem aute ullamco velit irure consequat exercitation reprehenderit consequat nisi."
+      },
+      {
+        "url": "ipsum.png",
+        "description": "Voluptate qui incididunt aliqua nostrud cupidatat occaecat enim aute nisi nulla eu exercitation proident. Commodo ipsum adipisicing aliqua qui non enim exercitation dolore culpa voluptate labore exercitation."
+      },
+      {
+        "url": "officia.png",
+        "description": "Minim occaecat ad reprehenderit anim. Sint occaecat commodo esse occaecat amet occaecat amet reprehenderit minim sint aute et ex mollit."
+      },
+      {
+        "url": "minim.png",
+        "description": "Et non tempor eiusmod ipsum non quis magna non. Aute occaecat sunt sunt consectetur sint anim eu Lorem ipsum incididunt exercitation sint occaecat ipsum."
+      }
+    ]
+  },
+  {
+    "SKU": "20b12912-91f0-40ec-93ef-f21ac78335de",
+    "price": 42.44,
+    "productFamily": "Shane's-T-Shirt",
+    "brand": "Shane's",
+    "type": "T-Shirt",
+    "color": "Red",
+    "size": "Extra Large",
+    "quantity": 3,
+    "shortDescription": "Proident cillum ullamco laborum aute in enim cillum duis ea Lorem elit do.",
+    "longDescription": "Adipisicing aute laborum voluptate ea et incididunt. Culpa excepteur nulla reprehenderit dolor nulla veniam do excepteur aute. Occaecat consequat quis ullamco adipisicing qui aute ea amet pariatur aliqua consectetur qui sunt et. Consequat tempor voluptate aliquip officia in irure. Consequat ex pariatur adipisicing sint laborum nulla occaecat cillum id aliquip in sunt. Consectetur qui est enim velit id cupidatat Lorem qui eu sint reprehenderit culpa mollit enim. Quis mollit ex officia id do irure. Nulla ullamco deserunt qui dolor velit in et esse elit.",
+    "mainImage": {
+      "url": "incididunt.png"
+    },
+    "images": [
+      {
+        "url": "est.png",
+        "description": "Nostrud deserunt non officia occaecat excepteur quis dolor mollit in dolor. In sunt magna aliquip ut aute enim labore magna nostrud sit sit."
+      },
+      {
+        "url": "mollit.png",
+        "description": "Culpa sit sunt minim enim excepteur ex elit ullamco laboris ipsum ea. Aliquip nulla enim proident laboris duis aliquip aute."
+      },
+      {
+        "url": "occaecat.png",
+        "description": "Proident excepteur minim amet occaecat do dolore. Veniam Lorem ipsum amet laboris anim."
+      },
+      {
+        "url": "anim.png",
+        "description": "Sint enim laboris labore eu excepteur labore cupidatat velit laboris et fugiat laboris deserunt culpa. Nostrud aliquip qui dolore laborum cillum labore voluptate ullamco labore anim adipisicing."
+      }
+    ]
+  },
+  {
+    "SKU": "5360a9fb-2a09-46b2-90d4-94d52254d40f",
+    "price": 19.86,
+    "productFamily": "Veggies of the Spinning Wheel-Sweater",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "Sweater",
+    "color": "Black",
+    "size": "Extra Large",
+    "quantity": 2,
+    "shortDescription": "Officia adipisicing minim ex proident in deserunt nostrud ullamco occaecat ut labore Lorem.",
+    "longDescription": "Sunt cillum sit excepteur quis exercitation enim cillum labore. Aute sunt anim eu do elit culpa reprehenderit esse dolor occaecat excepteur. Qui excepteur ullamco anim ipsum. Irure ad et cupidatat culpa fugiat consectetur deserunt eu consectetur laborum. Velit consequat ipsum est enim cupidatat cillum. Deserunt elit dolor non aute aliquip irure tempor esse pariatur pariatur. Lorem reprehenderit reprehenderit ipsum sint veniam. Aliquip dolor nisi ea eiusmod officia sit laborum eiusmod incididunt sint sit proident.",
+    "mainImage": {
+      "url": "ea.png"
+    },
+    "images": [
+      {
+        "url": "amet.png",
+        "description": "Eiusmod pariatur deserunt nostrud consectetur in dolore. Culpa veniam occaecat incididunt consequat commodo proident consectetur laboris sint aliquip."
+      },
+      {
+        "url": "ut.png",
+        "description": "Occaecat ex tempor incididunt sit amet ut mollit. Duis cillum esse nostrud cillum aute velit ut occaecat Lorem dolor ullamco proident."
+      },
+      {
+        "url": "commodo.png",
+        "description": "Aliquip reprehenderit exercitation non mollit. Id enim ex reprehenderit et ea."
+      },
+      {
+        "url": "nulla.png",
+        "description": "Ex veniam nostrud amet anim est ut. Aute ex occaecat irure culpa irure sunt mollit."
+      }
+    ]
+  },
+  {
+    "SKU": "1e1acbde-2267-4354-9027-410e1389b004",
+    "price": 52.95,
+    "productFamily": "Dilgan-T-Shirt",
+    "brand": "Dilgan",
+    "type": "T-Shirt",
+    "color": "Navy",
+    "size": "Extra Large",
+    "quantity": 2,
+    "shortDescription": "Dolore esse occaecat nulla quis.",
+    "longDescription": "Minim laborum incididunt sunt veniam et ullamco. Consequat pariatur voluptate consequat ea excepteur ex do cupidatat qui. Enim pariatur minim dolore nisi sint Lorem mollit excepteur occaecat enim qui eiusmod. Officia duis esse eu adipisicing voluptate quis Lorem ex elit. Est culpa laboris in anim dolor pariatur voluptate labore exercitation ipsum tempor. Labore anim consectetur occaecat exercitation eiusmod in. Consectetur nostrud in qui est eu ex ex excepteur ad Lorem amet irure. Culpa exercitation deserunt incididunt sint esse proident et culpa voluptate.",
+    "mainImage": {
+      "url": "esse.png"
+    },
+    "images": [
+      {
+        "url": "id.png",
+        "description": "Commodo dolor elit id aliqua quis adipisicing velit laborum quis. Enim nulla nostrud pariatur laboris deserunt tempor."
+      },
+      {
+        "url": "qui.png",
+        "description": "Incididunt est amet quis enim qui occaecat fugiat ullamco. Aliqua incididunt exercitation esse anim commodo qui pariatur nulla."
+      },
+      {
+        "url": "non.png",
+        "description": "Voluptate laborum esse dolor ex elit non non aliquip cillum esse occaecat. Qui cillum sunt velit labore eu cupidatat."
+      },
+      {
+        "url": "laboris.png",
+        "description": "Deserunt do qui amet fugiat in deserunt magna deserunt sit do aute irure. Ipsum reprehenderit do duis eu qui esse et proident exercitation elit sunt esse eu aliqua."
+      }
+    ]
+  },
+  {
+    "SKU": "22c0474f-924b-40ec-8214-bb5b594ff252",
+    "price": 18.26,
+    "productFamily": "Dilgan-T-Shirt",
+    "brand": "Dilgan",
+    "type": "T-Shirt",
+    "color": "Navy",
+    "size": "Medium",
+    "quantity": 2,
+    "shortDescription": "Reprehenderit minim esse eiusmod enim qui ut aute excepteur sit sunt adipisicing nostrud adipisicing sunt.",
+    "longDescription": "In excepteur occaecat tempor labore sit minim in sint qui sunt. Irure ipsum pariatur pariatur dolor consequat eiusmod pariatur et culpa minim sit in. Esse commodo pariatur laboris incididunt ex adipisicing est sunt officia mollit nulla ea excepteur. Mollit id commodo commodo voluptate aliqua irure. Ea labore aute proident id duis. Sint enim non enim quis est consequat. Quis consequat sunt nostrud aute nisi do excepteur ad do commodo et ad est adipisicing. Nulla pariatur quis voluptate quis sunt aliquip excepteur ut incididunt officia veniam dolore laborum Lorem.",
+    "mainImage": {
+      "url": "esse.png"
+    },
+    "images": [
+      {
+        "url": "excepteur.png",
+        "description": "Do commodo dolor in anim voluptate ipsum laboris dolore esse cillum duis mollit dolor. Sit consectetur sunt deserunt ea aute enim occaecat deserunt."
+      },
+      {
+        "url": "ut.png",
+        "description": "Enim cupidatat elit magna adipisicing ex id ipsum enim qui. Voluptate ex ipsum dolor duis mollit dolor consequat."
+      },
+      {
+        "url": "irure.png",
+        "description": "Dolore dolore id officia enim proident. Velit ex est eiusmod aliquip eu ullamco veniam quis nisi reprehenderit officia veniam."
+      },
+      {
+        "url": "mollit.png",
+        "description": "Cupidatat occaecat qui ad et deserunt elit velit voluptate sint dolore magna. Ut ut cillum sit qui incididunt anim Lorem."
+      }
+    ]
+  },
+  {
+    "SKU": "e264a46e-c881-4636-8953-e8c98bb76666",
+    "price": 57.85,
+    "productFamily": "Dilgan-Hat",
+    "brand": "Dilgan",
+    "type": "Hat",
+    "color": "White",
+    "size": "Small",
+    "quantity": 2,
+    "shortDescription": "Proident cupidatat ea aliquip esse eiusmod in ipsum.",
+    "longDescription": "Eu commodo sit minim consequat nulla et do. Amet laborum esse et officia amet esse exercitation. Velit et et ex sit amet dolore nostrud consectetur irure ea et anim ipsum irure. In incididunt aliquip mollit ad dolore officia voluptate. Consectetur occaecat excepteur duis laboris commodo velit irure mollit nostrud occaecat sunt proident reprehenderit consectetur. Consequat pariatur aliqua laborum ad consectetur anim nostrud irure culpa anim consectetur ullamco sunt. Aliqua tempor occaecat minim cupidatat. Id tempor exercitation nisi eiusmod consequat nostrud.",
+    "mainImage": {
+      "url": "ullamco.png"
+    },
+    "images": [
+      {
+        "url": "anim.png",
+        "description": "Ipsum laborum commodo ipsum mollit culpa pariatur ipsum voluptate irure. Excepteur ut sunt elit veniam sint officia elit ut officia."
+      },
+      {
+        "url": "adipisicing.png",
+        "description": "Dolore laborum irure dolore esse exercitation. Nisi culpa in esse exercitation deserunt ipsum labore Lorem enim nulla dolor nostrud."
+      },
+      {
+        "url": "duis.png",
+        "description": "Tempor veniam deserunt aliqua enim ex. Aliqua ea mollit tempor reprehenderit et do nostrud fugiat commodo."
+      },
+      {
+        "url": "excepteur.png",
+        "description": "Irure tempor cillum sint velit. Aliquip laboris consequat laborum consequat enim deserunt fugiat."
+      }
+    ]
+  },
+  {
+    "SKU": "d3bfc387-3d05-4e1b-8522-f1aa5f3b643f",
+    "price": 18.21,
+    "productFamily": "Dilgan-Hat",
+    "brand": "Dilgan",
+    "type": "Hat",
+    "color": "Navy",
+    "size": "Large",
+    "quantity": 0,
+    "shortDescription": "Ipsum eu non enim sint deserunt aute eiusmod cupidatat velit in.",
+    "longDescription": "Enim amet eu ad ad ullamco sunt. Ipsum irure voluptate eiusmod nulla duis id qui aliquip. Tempor veniam reprehenderit aliqua deserunt consequat sit laboris eu aliqua. Sunt ea nostrud eu cupidatat. Minim quis occaecat ex mollit culpa eu. Voluptate eu dolore esse dolor in aliqua in aliquip excepteur commodo. Sint fugiat commodo amet aliqua amet pariatur eiusmod officia mollit. Et cillum est ad commodo irure amet qui amet amet non amet amet est.",
+    "mainImage": {
+      "url": "veniam.png"
+    },
+    "images": [
+      {
+        "url": "do.png",
+        "description": "Adipisicing reprehenderit magna aliqua culpa labore laborum ipsum sit pariatur do. Magna est mollit ut ullamco non nulla aute nisi est esse esse."
+      },
+      {
+        "url": "nulla.png",
+        "description": "Commodo proident ipsum sit adipisicing ipsum sint nostrud eu deserunt ut. Laboris deserunt nulla do incididunt esse enim occaecat est duis aliquip ad voluptate occaecat commodo."
+      },
+      {
+        "url": "pariatur.png",
+        "description": "Aliqua officia nostrud culpa quis id laboris nisi non irure dolor reprehenderit sunt reprehenderit. Ea est nisi amet qui ut duis amet adipisicing commodo."
+      },
+      {
+        "url": "non.png",
+        "description": "Veniam et officia anim adipisicing mollit mollit officia pariatur consectetur deserunt proident mollit adipisicing. Irure laborum eiusmod ipsum est reprehenderit duis nostrud eiusmod sint fugiat cillum."
+      }
+    ]
+  },
+  {
+    "SKU": "1b7601e8-9330-4b78-9ba2-1332a616703a",
+    "price": 91.38,
+    "productFamily": "Shane's-T-Shirt",
+    "brand": "Shane's",
+    "type": "T-Shirt",
+    "color": "Pink",
+    "size": "Extra Large",
+    "quantity": 0,
+    "shortDescription": "Aliqua commodo officia anim adipisicing officia.",
+    "longDescription": "Esse duis ut dolor et amet reprehenderit et anim exercitation officia. Commodo ipsum ex magna cupidatat. Aliqua quis est eu sunt ipsum deserunt qui esse laborum. Sit anim pariatur ut ullamco elit enim ipsum nulla. Amet cupidatat occaecat reprehenderit consequat consectetur cillum exercitation Lorem cillum. Fugiat in sunt mollit elit cupidatat dolor deserunt laboris laboris qui adipisicing minim ipsum voluptate. Esse esse consectetur exercitation minim esse nisi laboris sint excepteur eiusmod id Lorem ex ut. Sint mollit nulla labore ad adipisicing ea sint nisi laboris consequat minim cillum occaecat.",
+    "mainImage": {
+      "url": "consequat.png"
+    },
+    "images": [
+      {
+        "url": "consectetur.png",
+        "description": "Veniam do cillum laborum sunt et esse cillum nostrud et anim dolor fugiat. Laboris reprehenderit nisi enim laborum amet voluptate enim ut."
+      },
+      {
+        "url": "laborum.png",
+        "description": "Est fugiat velit dolor laboris. Culpa aliqua incididunt do ea elit duis culpa irure est dolore labore commodo sint dolore."
+      },
+      {
+        "url": "anim.png",
+        "description": "Veniam duis amet quis ea commodo enim proident non velit ullamco irure tempor. Amet officia anim proident eiusmod amet reprehenderit enim magna irure eiusmod quis culpa."
+      },
+      {
+        "url": "consectetur.png",
+        "description": "Quis Lorem veniam sit ipsum. Incididunt do ea incididunt velit non."
+      }
+    ]
+  },
+  {
+    "SKU": "c25e6c45-98ef-4b82-80a3-8c53d7c7c8dc",
+    "price": 58.9,
+    "productFamily": "Veggies of the Spinning Wheel-Sweater",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "Sweater",
+    "color": "Red",
+    "size": "Extra Large",
+    "quantity": 0,
+    "shortDescription": "Eiusmod quis magna consectetur ullamco adipisicing esse dolor eu Lorem est deserunt.",
+    "longDescription": "Magna eu velit proident voluptate irure exercitation veniam cillum irure dolor qui ad Lorem consectetur. Incididunt excepteur sint id duis adipisicing ut amet esse Lorem dolor ea ullamco. Aliqua adipisicing minim dolor sint esse nulla mollit. Cupidatat eiusmod consectetur laborum consectetur minim in excepteur cupidatat cupidatat sit minim ea labore. Aute deserunt esse quis labore fugiat. Et sunt non qui aute adipisicing dolore aliquip qui deserunt. Occaecat ea consectetur magna est officia proident enim consectetur laboris veniam. Fugiat culpa voluptate in irure et dolor.",
+    "mainImage": {
+      "url": "tempor.png"
+    },
+    "images": [
+      {
+        "url": "occaecat.png",
+        "description": "Pariatur sint exercitation ipsum in elit pariatur eiusmod. Eiusmod tempor incididunt aliquip sint."
+      },
+      {
+        "url": "voluptate.png",
+        "description": "Pariatur deserunt anim reprehenderit adipisicing id voluptate in labore proident sunt eu. Est quis voluptate cupidatat enim cillum dolor voluptate ex duis consectetur elit labore."
+      },
+      {
+        "url": "ex.png",
+        "description": "Irure consequat excepteur mollit deserunt do nulla nisi commodo. Consequat deserunt consequat excepteur Lorem pariatur."
+      },
+      {
+        "url": "aute.png",
+        "description": "Sint nisi ex ad elit anim esse veniam aliquip. Enim esse culpa mollit eiusmod cillum eiusmod laborum deserunt ut laborum excepteur id."
+      }
+    ]
+  },
+  {
+    "SKU": "1c30565a-7256-42d6-8221-a6d5ad06897e",
+    "price": 41.71,
+    "productFamily": "Dilgan-Sweater",
+    "brand": "Dilgan",
+    "type": "Sweater",
+    "color": "Red",
+    "size": "Large",
+    "quantity": 3,
+    "shortDescription": "Sint laboris non ex consectetur.",
+    "longDescription": "Magna ipsum do aute ut exercitation dolore reprehenderit sunt culpa tempor Lorem quis eu ut. In et cillum reprehenderit dolore deserunt culpa. Deserunt fugiat in sunt mollit est commodo nisi tempor exercitation proident labore ex. Ut amet voluptate proident nostrud ex sint cillum adipisicing veniam. Ipsum tempor in Lorem officia sint. Cillum labore pariatur commodo quis. Adipisicing reprehenderit cupidatat Lorem eiusmod sit id aliqua. Qui nisi aliqua reprehenderit incididunt sit labore consectetur.",
+    "mainImage": {
+      "url": "excepteur.png"
+    },
+    "images": [
+      {
+        "url": "magna.png",
+        "description": "Aute nisi qui id veniam. Commodo nostrud exercitation minim nulla enim irure magna."
+      },
+      {
+        "url": "do.png",
+        "description": "Est aute est et minim ea eiusmod aute minim sunt proident. Qui nostrud velit incididunt velit."
+      },
+      {
+        "url": "incididunt.png",
+        "description": "Laborum eu ex do voluptate commodo voluptate veniam cupidatat elit eiusmod aute laboris. Velit ad esse ad qui est exercitation in ex magna fugiat anim irure ullamco."
+      },
+      {
+        "url": "sunt.png",
+        "description": "Reprehenderit dolor minim enim Lorem ut nostrud sint eiusmod duis incididunt sint cillum irure. Incididunt mollit reprehenderit esse veniam duis est nisi labore."
+      }
+    ]
+  },
+  {
+    "SKU": "1625290f-628e-49e4-a234-9bed55ea29db",
+    "price": 50.97,
+    "productFamily": "Shane's-Hat",
+    "brand": "Shane's",
+    "type": "Hat",
+    "color": "Blue",
+    "size": "Large",
+    "quantity": 3,
+    "shortDescription": "Minim ad qui dolore quis ex id dolor.",
+    "longDescription": "Labore Lorem exercitation cillum pariatur aliquip non qui. Sunt culpa ad incididunt velit occaecat pariatur officia esse amet. Nisi culpa sit aliquip mollit minim do voluptate commodo anim et. Lorem in aliquip consectetur nostrud dolore deserunt veniam esse ullamco nisi exercitation ipsum. Quis irure quis fugiat esse voluptate est ut Lorem consequat. Sit nisi officia labore cillum non nisi aliqua. Eiusmod culpa nostrud voluptate qui veniam mollit reprehenderit magna elit minim et cillum do cillum. Sint non commodo non amet consequat nisi duis elit.",
+    "mainImage": {
+      "url": "labore.png"
+    },
+    "images": [
+      {
+        "url": "eu.png",
+        "description": "Velit sint ut fugiat nulla consectetur velit est dolor amet. Ex duis aliqua culpa id cillum laborum ipsum mollit."
+      },
+      {
+        "url": "ipsum.png",
+        "description": "Excepteur voluptate cillum id sit qui pariatur deserunt nulla eu sit aliquip. Nostrud velit nisi cillum veniam Lorem nostrud officia."
+      },
+      {
+        "url": "cillum.png",
+        "description": "Velit aute et exercitation reprehenderit pariatur exercitation ipsum mollit mollit esse aute do magna consequat. Enim consectetur culpa irure cillum elit magna nulla anim sunt ea."
+      },
+      {
+        "url": "tempor.png",
+        "description": "Aliqua dolor quis laboris nostrud consequat. Adipisicing non ex ex aliquip."
+      }
+    ]
+  },
+  {
+    "SKU": "33d06f9b-5fb0-483c-9dea-542c28871c8a",
+    "price": 6.14,
+    "productFamily": "Veggies of the Spinning Wheel-Hat",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "Hat",
+    "color": "Blue",
+    "size": "Extra Large",
+    "quantity": 3,
+    "shortDescription": "Consectetur Lorem Lorem Lorem eiusmod anim laborum consectetur sint eiusmod.",
+    "longDescription": "Veniam id voluptate sint adipisicing voluptate aute eu est ea ad magna veniam. Deserunt amet ullamco esse occaecat dolor mollit. Ea tempor enim aute exercitation laboris exercitation adipisicing amet commodo cupidatat velit nostrud. Eu elit excepteur qui commodo nulla nulla cupidatat culpa laborum sunt deserunt ipsum commodo. Id voluptate Lorem sit aute ut id laboris pariatur sint eu veniam. Do consectetur incididunt occaecat ipsum dolore consectetur velit aliqua. Laborum sit officia reprehenderit quis labore irure amet. Id enim dolor sit cupidatat reprehenderit laboris sunt officia officia aliqua.",
+    "mainImage": {
+      "url": "adipisicing.png"
+    },
+    "images": [
+      {
+        "url": "nostrud.png",
+        "description": "Cillum ut nisi tempor est officia aliqua incididunt voluptate velit laborum irure sint aute. Id dolore aliquip sunt fugiat deserunt velit."
+      },
+      {
+        "url": "aliquip.png",
+        "description": "Aliquip officia elit ea esse laboris nostrud. Dolore incididunt culpa officia adipisicing qui et dolore ex voluptate ipsum."
+      },
+      {
+        "url": "veniam.png",
+        "description": "Consectetur esse excepteur consectetur nostrud ex laborum. Pariatur cillum cupidatat minim in consectetur in reprehenderit anim do."
+      },
+      {
+        "url": "cupidatat.png",
+        "description": "Irure aliquip irure sit qui consequat nulla aliquip incididunt cupidatat aliquip minim mollit. Laboris officia qui ipsum consectetur deserunt laborum voluptate eiusmod dolore."
+      }
+    ]
+  },
+  {
+    "SKU": "782443e5-7321-4944-a300-73cdcc59243a",
+    "price": 48.75,
+    "productFamily": "Dilgan-Hat",
+    "brand": "Dilgan",
+    "type": "Hat",
+    "color": "Blue",
+    "size": "Small",
+    "quantity": 1,
+    "shortDescription": "Occaecat qui ullamco ipsum excepteur consequat deserunt mollit excepteur aliqua voluptate incididunt esse Lorem dolore.",
+    "longDescription": "Ea nostrud est non incididunt ad velit sit consequat. Elit magna consequat cillum mollit commodo duis labore consectetur id adipisicing sunt consectetur ullamco. Sit esse voluptate nisi eiusmod occaecat cillum sunt sunt cillum laborum excepteur est ex. Aliqua laboris eiusmod nisi ex est excepteur fugiat. Aute excepteur eiusmod consectetur do enim minim anim ea et commodo ea. In sit deserunt elit consectetur laborum qui occaecat minim velit ut mollit aute. Ut nulla aute sit ea dolor nisi nostrud dolor consequat nulla duis amet ut. Mollit elit tempor enim nostrud ipsum dolor.",
+    "mainImage": {
+      "url": "ipsum.png"
+    },
+    "images": [
+      {
+        "url": "et.png",
+        "description": "Eiusmod duis esse cupidatat quis est veniam esse labore ad adipisicing duis labore et est. Nisi ex consectetur aliqua excepteur excepteur ut."
+      },
+      {
+        "url": "incididunt.png",
+        "description": "Est anim dolor Lorem mollit tempor quis exercitation labore non laboris. Et commodo proident cillum proident tempor mollit proident ad id voluptate."
+      },
+      {
+        "url": "ullamco.png",
+        "description": "Ullamco ut reprehenderit sit incididunt occaecat. Et elit veniam veniam consequat exercitation mollit ipsum."
+      },
+      {
+        "url": "est.png",
+        "description": "Lorem et irure sit nostrud deserunt aliqua incididunt dolore nisi. Qui exercitation laborum nostrud culpa."
+      }
+    ]
+  },
+  {
+    "SKU": "e1e387f9-7acf-4a6a-bfe0-d3cb4db9bf8d",
+    "price": 33.41,
+    "productFamily": "Veggies of the Spinning Wheel-Sweater",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "Sweater",
+    "color": "Pink",
+    "size": "Small",
+    "quantity": 1,
+    "shortDescription": "Velit aute incididunt amet enim reprehenderit dolore magna cillum amet.",
+    "longDescription": "Magna sint esse officia fugiat officia dolore. Labore ut id enim proident laborum consectetur velit nisi amet. Excepteur qui velit consequat cupidatat pariatur ipsum incididunt velit. Do ipsum excepteur magna laboris quis nisi culpa est sit consequat. Excepteur deserunt quis amet amet aliquip minim. In proident pariatur adipisicing esse ad fugiat proident anim velit. Incididunt ea elit ut occaecat. Sint velit fugiat tempor ut Lorem.",
+    "mainImage": {
+      "url": "anim.png"
+    },
+    "images": [
+      {
+        "url": "mollit.png",
+        "description": "Tempor sunt voluptate fugiat aliquip. Adipisicing ex nisi eiusmod in in exercitation exercitation."
+      },
+      {
+        "url": "qui.png",
+        "description": "Exercitation reprehenderit aute nisi velit irure aute. Incididunt et fugiat nisi ut minim quis voluptate amet laborum aliqua cupidatat commodo sit sint."
+      },
+      {
+        "url": "irure.png",
+        "description": "Non magna consequat labore amet mollit sint voluptate culpa proident et cillum voluptate. Sint velit qui qui nostrud ullamco anim ex nisi proident voluptate voluptate ex ut proident."
+      },
+      {
+        "url": "magna.png",
+        "description": "Elit aliqua ex id ipsum non do non exercitation incididunt est exercitation sunt. In voluptate proident laborum proident aliquip culpa laborum eu sint."
+      }
+    ]
+  },
+  {
+    "SKU": "990389c9-7246-48d1-bf98-ec8460293fb1",
+    "price": 30.89,
+    "productFamily": "Shane's-T-Shirt",
+    "brand": "Shane's",
+    "type": "T-Shirt",
+    "color": "Blue",
+    "size": "Large",
+    "quantity": 1,
+    "shortDescription": "Ea aute magna ut reprehenderit laborum aliqua deserunt elit culpa excepteur quis.",
+    "longDescription": "Pariatur aliqua et ipsum adipisicing amet veniam ex sint non aliquip enim laboris. Voluptate aute nulla adipisicing ut nostrud aliqua et laboris commodo. Eu irure dolore ipsum dolore. Ea qui proident quis ex proident voluptate incididunt ut exercitation incididunt aliqua eu. Adipisicing aute cupidatat officia deserunt sint sunt cillum occaecat labore. In aliqua minim Lorem culpa aute duis sunt labore. Ut reprehenderit cillum consectetur deserunt deserunt qui et deserunt enim dolore fugiat ipsum adipisicing. Ad irure cillum nostrud elit in sunt.",
+    "mainImage": {
+      "url": "do.png"
+    },
+    "images": [
+      {
+        "url": "anim.png",
+        "description": "Pariatur ipsum Lorem magna est anim esse velit non do. Occaecat deserunt amet minim pariatur aute deserunt irure reprehenderit reprehenderit ea veniam ad id."
+      },
+      {
+        "url": "ipsum.png",
+        "description": "Magna et ex tempor mollit ex incididunt culpa consectetur eiusmod nostrud cillum aliquip ipsum laboris. Officia cupidatat elit nulla pariatur in laborum veniam pariatur."
+      },
+      {
+        "url": "labore.png",
+        "description": "Non nulla id excepteur laborum cupidatat do excepteur occaecat laboris Lorem id. Minim proident ut amet velit."
+      },
+      {
+        "url": "sunt.png",
+        "description": "Irure nostrud et eu nostrud labore fugiat. Aute elit sunt dolore occaecat tempor consectetur."
+      }
+    ]
+  },
+  {
+    "SKU": "e8483c97-c034-450f-a3b8-14ee1ee55615",
+    "price": 98.12,
+    "productFamily": "Veggies of the Spinning Wheel-T-Shirt",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "T-Shirt",
+    "color": "Navy",
+    "size": "Medium",
+    "quantity": 1,
+    "shortDescription": "Culpa laboris nulla duis aliquip elit.",
+    "longDescription": "Minim excepteur consequat tempor est nulla velit aliqua. Cillum consectetur qui tempor Lorem. Amet excepteur consequat excepteur laborum quis consectetur aliquip elit nostrud. Labore quis qui labore voluptate Lorem Lorem. Qui consectetur mollit non ad velit ipsum est amet elit dolore enim. Irure cupidatat qui occaecat sit enim aliqua et elit officia. Excepteur nisi ea culpa officia aliqua irure. Elit excepteur culpa id consectetur.",
+    "mainImage": {
+      "url": "cillum.png"
+    },
+    "images": [
+      {
+        "url": "veniam.png",
+        "description": "Veniam velit fugiat ut aliquip. Ex commodo minim veniam excepteur deserunt eiusmod enim culpa et ad in proident ipsum tempor."
+      },
+      {
+        "url": "proident.png",
+        "description": "Officia labore ea magna deserunt magna nostrud. Fugiat minim sunt commodo in sit incididunt minim qui officia eiusmod occaecat nulla tempor."
+      },
+      {
+        "url": "aliqua.png",
+        "description": "Nostrud incididunt esse quis in exercitation quis sint adipisicing ad excepteur qui. Laborum do incididunt elit nostrud reprehenderit aliquip eu qui."
+      },
+      {
+        "url": "voluptate.png",
+        "description": "Aliquip ad eu do dolor occaecat consequat tempor non nostrud sit. Sit ipsum laboris nisi Lorem amet."
+      }
+    ]
+  },
+  {
+    "SKU": "60051218-64f3-46ab-aeaf-955f24c5248e",
+    "price": 51.13,
+    "productFamily": "Dilgan-T-Shirt",
+    "brand": "Dilgan",
+    "type": "T-Shirt",
+    "color": "Navy",
+    "size": "Large",
+    "quantity": 3,
+    "shortDescription": "Amet tempor sint consectetur aute ipsum id fugiat in consequat nulla.",
+    "longDescription": "Do Lorem culpa ullamco laborum Lorem dolore amet do. Id Lorem tempor quis deserunt minim occaecat Lorem adipisicing dolore aute. Sint cillum commodo voluptate reprehenderit aliquip ullamco reprehenderit. Cupidatat et consectetur magna quis. Duis do consectetur incididunt ea deserunt enim ad adipisicing amet consectetur id. Dolore consequat mollit fugiat fugiat sunt cillum nulla quis cupidatat nostrud deserunt sit. Dolore aute consequat exercitation aliquip reprehenderit. Aliqua pariatur irure fugiat sint anim enim.",
+    "mainImage": {
+      "url": "duis.png"
+    },
+    "images": [
+      {
+        "url": "aliquip.png",
+        "description": "Amet in aliquip aliquip laboris tempor amet veniam quis. Anim sunt minim sit incididunt culpa id enim do esse."
+      },
+      {
+        "url": "tempor.png",
+        "description": "Do tempor consectetur pariatur sunt velit. Cupidatat et ex labore dolore aliquip tempor aliquip laborum dolore ex in veniam amet exercitation."
+      },
+      {
+        "url": "qui.png",
+        "description": "Incididunt cillum sunt in amet et amet incididunt consectetur occaecat aliqua. Enim aute exercitation ullamco ut aliqua quis sit deserunt mollit amet."
+      },
+      {
+        "url": "cupidatat.png",
+        "description": "Labore elit reprehenderit nulla cupidatat fugiat ipsum voluptate dolore consectetur incididunt cupidatat sit proident. Eiusmod qui voluptate nulla pariatur veniam."
+      }
+    ]
+  },
+  {
+    "SKU": "71577dd5-0078-428f-849c-c3e29d4291f3",
+    "price": 2.02,
+    "productFamily": "Shane's-Hat",
+    "brand": "Shane's",
+    "type": "Hat",
+    "color": "Pink",
+    "size": "Medium",
+    "quantity": 1,
+    "shortDescription": "Cupidatat non laborum enim cupidatat incididunt.",
+    "longDescription": "Cillum excepteur et veniam nisi excepteur exercitation voluptate laboris dolor ut sit proident. Mollit nostrud excepteur duis labore consequat. Ullamco aliquip voluptate consequat eu sit reprehenderit fugiat ullamco. Aute velit excepteur culpa exercitation proident commodo veniam cupidatat ex magna ea velit dolore mollit. Amet enim proident id voluptate anim commodo elit ullamco ut mollit minim ad proident ipsum. Nulla elit do veniam consectetur veniam labore sunt nulla irure elit. Dolore cillum non et fugiat laboris mollit eu do nulla duis ut. Nisi ex excepteur ullamco commodo commodo excepteur non occaecat irure cupidatat aliquip velit magna nisi.",
+    "mainImage": {
+      "url": "mollit.png"
+    },
+    "images": [
+      {
+        "url": "commodo.png",
+        "description": "Nostrud sunt non id excepteur ex sunt fugiat tempor non ut et quis. Consectetur non incididunt nisi nostrud proident nulla cillum nisi ipsum veniam labore non consectetur."
+      },
+      {
+        "url": "dolore.png",
+        "description": "Sint mollit officia do commodo dolore irure duis ex fugiat. Sint ex id magna esse laboris dolore sunt."
+      },
+      {
+        "url": "laborum.png",
+        "description": "Irure laboris tempor aute aute do adipisicing eiusmod laboris ex duis ipsum ea esse. Dolore ex elit pariatur pariatur ex irure labore nulla ipsum."
+      },
+      {
+        "url": "adipisicing.png",
+        "description": "Dolor veniam anim et in do. Quis ad est quis enim proident et ex."
+      }
+    ]
+  },
+  {
+    "SKU": "1a5a60a1-386e-4dad-b1cb-1747b1301d78",
+    "price": 90.09,
+    "productFamily": "Dilgan-T-Shirt",
+    "brand": "Dilgan",
+    "type": "T-Shirt",
+    "color": "Orange",
+    "size": "Large",
+    "quantity": 1,
+    "shortDescription": "Anim culpa nulla excepteur commodo excepteur id excepteur esse qui anim adipisicing.",
+    "longDescription": "Commodo adipisicing ad magna anim aliqua laborum enim aliqua ipsum. Proident amet aliqua enim consequat. Exercitation quis labore laborum adipisicing. Proident eiusmod aliqua dolore dolor in dolor reprehenderit duis laboris Lorem. Reprehenderit excepteur sit ad dolor labore excepteur adipisicing pariatur ex deserunt. Laboris reprehenderit anim eiusmod nostrud sint ex laborum consectetur esse consequat. Commodo elit commodo deserunt laborum officia esse exercitation. Pariatur sunt irure nostrud ex reprehenderit eu in ullamco nisi pariatur commodo nulla labore labore.",
+    "mainImage": {
+      "url": "duis.png"
+    },
+    "images": [
+      {
+        "url": "et.png",
+        "description": "Aute pariatur ad quis mollit. Consectetur eu consequat nisi anim."
+      },
+      {
+        "url": "amet.png",
+        "description": "Labore dolore eiusmod exercitation ea irure ipsum dolor elit proident ipsum. Fugiat Lorem ipsum ipsum elit officia incididunt ea sit ex sint consequat minim aliqua."
+      },
+      {
+        "url": "qui.png",
+        "description": "Cupidatat ea pariatur tempor dolor eu sunt ullamco. Occaecat magna id amet culpa adipisicing reprehenderit dolore ullamco cillum sit ipsum amet esse."
+      },
+      {
+        "url": "reprehenderit.png",
+        "description": "Deserunt anim minim voluptate officia adipisicing eu cupidatat labore officia eiusmod sit. Anim laboris sit aute irure pariatur commodo consequat nostrud sint ad ea eiusmod."
+      }
+    ]
+  },
+  {
+    "SKU": "c87a3b4d-a43a-4b09-882b-e4a774504534",
+    "price": 74.67,
+    "productFamily": "Shane's-T-Shirt",
+    "brand": "Shane's",
+    "type": "T-Shirt",
+    "color": "Navy",
+    "size": "Extra Large",
+    "quantity": 2,
+    "shortDescription": "Culpa laboris duis mollit amet.",
+    "longDescription": "Cupidatat laborum est mollit dolore eiusmod eiusmod laborum commodo nulla esse. Occaecat pariatur ad esse dolore laboris nostrud. Dolor ipsum ea irure consequat culpa proident ullamco deserunt dolor ea irure duis adipisicing reprehenderit. Anim quis Lorem proident Lorem sint commodo velit elit nostrud. Ullamco ex dolore nisi reprehenderit cupidatat laborum consequat dolore laborum. Aliquip nostrud qui esse cupidatat sunt dolore sint Lorem ea elit non et. Cupidatat non laboris ad ad eu. Anim eiusmod ullamco laborum elit occaecat qui voluptate minim.",
+    "mainImage": {
+      "url": "aliquip.png"
+    },
+    "images": [
+      {
+        "url": "duis.png",
+        "description": "Proident sit eiusmod proident proident magna nostrud Lorem proident nostrud reprehenderit laboris sint labore pariatur. Incididunt culpa aute excepteur elit."
+      },
+      {
+        "url": "enim.png",
+        "description": "Non est nostrud consectetur ullamco in. Ea quis do magna aliqua commodo minim cillum ea."
+      },
+      {
+        "url": "ullamco.png",
+        "description": "Eiusmod culpa minim commodo duis amet cupidatat. Nostrud reprehenderit dolor eiusmod reprehenderit dolor id nisi elit veniam."
+      },
+      {
+        "url": "consectetur.png",
+        "description": "Tempor aute fugiat pariatur laborum commodo incididunt exercitation ad duis proident. Nostrud dolor enim minim ad mollit."
+      }
+    ]
+  },
+  {
+    "SKU": "09291096-82ac-42e2-81c7-006a5b881747",
+    "price": 64.28,
+    "productFamily": "Dilgan-T-Shirt",
+    "brand": "Dilgan",
+    "type": "T-Shirt",
+    "color": "Black",
+    "size": "Medium",
+    "quantity": 0,
+    "shortDescription": "Proident consectetur consectetur laborum ad.",
+    "longDescription": "Proident excepteur elit sint aliqua esse et. Commodo nisi et ullamco commodo velit aliqua excepteur non Lorem qui sit officia laboris ut. Irure Lorem esse adipisicing esse exercitation cupidatat proident incididunt est elit pariatur labore officia quis. Ex irure ipsum nisi cillum non Lorem aliqua ipsum elit sunt officia qui aliqua. Occaecat ea aute culpa ullamco adipisicing voluptate laborum eu mollit irure excepteur in. Ipsum laboris elit sint proident tempor non irure mollit. Est ex pariatur duis labore sit ex. Duis labore veniam ut enim esse.",
+    "mainImage": {
+      "url": "ea.png"
+    },
+    "images": [
+      {
+        "url": "aute.png",
+        "description": "Ea est elit elit laborum. Nisi est magna anim elit Lorem occaecat commodo excepteur tempor."
+      },
+      {
+        "url": "commodo.png",
+        "description": "Enim id culpa sunt laborum laboris aliquip eu ipsum fugiat reprehenderit exercitation exercitation. Do cillum minim id ex ea reprehenderit ut excepteur anim velit ut nostrud."
+      },
+      {
+        "url": "tempor.png",
+        "description": "Ex nisi aliqua deserunt deserunt sit quis. Mollit est non velit occaecat tempor pariatur minim cillum labore."
+      },
+      {
+        "url": "anim.png",
+        "description": "Culpa consectetur esse duis dolor officia voluptate esse. Commodo cupidatat eiusmod laboris tempor adipisicing et."
+      }
+    ]
+  },
+  {
+    "SKU": "cc309cc4-827c-4d70-a14b-83c2cc958f14",
+    "price": 54.78,
+    "productFamily": "Shane's-Sweater",
+    "brand": "Shane's",
+    "type": "Sweater",
+    "color": "Black",
+    "size": "Small",
+    "quantity": 0,
+    "shortDescription": "Occaecat qui fugiat eiusmod sunt et pariatur ex magna dolore eu elit anim cillum.",
+    "longDescription": "Mollit Lorem magna deserunt id velit velit et exercitation qui eiusmod dolor. Amet velit elit enim ea commodo occaecat do excepteur ut incididunt laborum adipisicing. Irure sint sit officia tempor dolore commodo ea fugiat. Reprehenderit amet officia eiusmod occaecat. Labore est aute culpa occaecat officia in eu excepteur amet aliqua quis quis fugiat. Tempor est incididunt cillum ut tempor mollit labore. Sit culpa eiusmod qui aute ut voluptate quis voluptate. Dolore duis officia sunt cupidatat.",
+    "mainImage": {
+      "url": "incididunt.png"
+    },
+    "images": [
+      {
+        "url": "officia.png",
+        "description": "Ex ea excepteur duis aliqua. Enim veniam ea aliquip qui laboris excepteur veniam irure."
+      },
+      {
+        "url": "qui.png",
+        "description": "Occaecat et officia enim consequat occaecat laborum. Exercitation id id et duis est proident aliqua."
+      },
+      {
+        "url": "excepteur.png",
+        "description": "Non elit anim nisi Lorem aute amet et amet ea tempor. Ad qui ex mollit Lorem officia adipisicing."
+      },
+      {
+        "url": "fugiat.png",
+        "description": "Magna sint deserunt proident fugiat aliqua Lorem sit. Est nostrud voluptate nostrud exercitation commodo consectetur."
+      }
+    ]
+  },
+  {
+    "SKU": "3a4d89e3-40b1-4883-8fbc-a8189918e8c7",
+    "price": 13.89,
+    "productFamily": "Veggies of the Spinning Wheel-Hat",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "Hat",
+    "color": "Black",
+    "size": "Large",
+    "quantity": 0,
+    "shortDescription": "Anim magna irure exercitation qui occaecat labore.",
+    "longDescription": "Est labore ut elit anim fugiat velit deserunt ut mollit dolor eiusmod eiusmod. Qui occaecat commodo in adipisicing in ut nulla quis do sit velit. Ad enim pariatur qui aliquip nostrud qui nisi eu cupidatat deserunt nisi aliqua. Anim cillum laboris ex dolore duis nulla enim. Cupidatat exercitation eiusmod irure nulla. Ut sit incididunt labore ea sint anim. Eu magna tempor elit aliquip eu commodo excepteur ea anim reprehenderit do anim exercitation. Cillum ex culpa nostrud laboris enim sunt adipisicing.",
+    "mainImage": {
+      "url": "non.png"
+    },
+    "images": [
+      {
+        "url": "qui.png",
+        "description": "Exercitation elit adipisicing do elit labore aliquip ut occaecat reprehenderit. Incididunt non commodo commodo exercitation culpa dolor Lorem eiusmod amet et quis aliqua irure sint."
+      },
+      {
+        "url": "ea.png",
+        "description": "Pariatur ipsum do commodo elit minim. Veniam sit dolore aliquip laboris dolor consectetur minim esse excepteur magna id."
+      },
+      {
+        "url": "eu.png",
+        "description": "Quis veniam eiusmod magna cupidatat aute ut minim. Non labore adipisicing culpa cupidatat nostrud culpa nostrud laboris aliqua culpa exercitation dolor ipsum incididunt."
+      },
+      {
+        "url": "laboris.png",
+        "description": "Qui cillum do incididunt enim reprehenderit ipsum. Officia officia id culpa cupidatat excepteur veniam in mollit nulla exercitation amet."
+      }
+    ]
+  },
+  {
+    "SKU": "3f705f1a-ffec-4c59-b630-46c53c02745c",
+    "price": 73.2,
+    "productFamily": "Shane's-T-Shirt",
+    "brand": "Shane's",
+    "type": "T-Shirt",
+    "color": "Pink",
+    "size": "Medium",
+    "quantity": 2,
+    "shortDescription": "Reprehenderit aliquip pariatur minim incididunt cupidatat.",
+    "longDescription": "Aute non quis Lorem consectetur non qui mollit irure culpa ipsum reprehenderit elit ea est. Aliqua est magna deserunt nulla est id proident fugiat do reprehenderit dolor. Proident nostrud eiusmod commodo non laborum adipisicing ad sint laboris nulla in nulla sit veniam. Minim sunt minim incididunt elit laborum laboris adipisicing consectetur occaecat consequat adipisicing duis. Incididunt eu qui sunt dolore duis excepteur voluptate officia elit. Mollit do dolore consequat aute ad fugiat qui ullamco. Pariatur mollit fugiat enim quis aliqua aliquip dolor sint voluptate aute voluptate Lorem. Labore minim quis deserunt nisi consectetur eiusmod sit culpa consequat amet reprehenderit ex nulla cupidatat.",
+    "mainImage": {
+      "url": "ut.png"
+    },
+    "images": [
+      {
+        "url": "non.png",
+        "description": "Velit eiusmod ipsum deserunt Lorem minim nisi esse sit id. Consectetur officia et minim ex quis."
+      },
+      {
+        "url": "minim.png",
+        "description": "Nulla eu magna culpa velit consectetur aute excepteur commodo ut fugiat laboris dolor amet voluptate. Dolor nostrud non sunt consectetur duis."
+      },
+      {
+        "url": "labore.png",
+        "description": "Irure exercitation magna ex labore aliqua enim minim nostrud nostrud non. Ut culpa velit sit ex non sit aliquip esse est."
+      },
+      {
+        "url": "voluptate.png",
+        "description": "Ad adipisicing veniam adipisicing culpa laboris sint officia in et pariatur consectetur reprehenderit. Nostrud ut excepteur irure incididunt proident in eiusmod sit est sunt."
+      }
+    ]
+  },
+  {
+    "SKU": "ea4d77b7-a7f3-4eb1-a4d8-e1ee5a9f8f3c",
+    "price": 82.48,
+    "productFamily": "Veggies of the Spinning Wheel-Sweater",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "Sweater",
+    "color": "Blue",
+    "size": "Small",
+    "quantity": 3,
+    "shortDescription": "Pariatur deserunt aute sit eu voluptate duis non id officia cupidatat quis occaecat occaecat.",
+    "longDescription": "Commodo est esse ad sunt ullamco. Labore reprehenderit qui non id nulla eu laborum pariatur pariatur id. Irure commodo exercitation eu id adipisicing ex. Minim irure incididunt dolor deserunt ea eiusmod. Elit nulla aliqua ea duis sint nulla reprehenderit occaecat do quis laborum Lorem nulla. Magna aliquip voluptate eiusmod fugiat esse excepteur ex pariatur cillum dolore. Culpa cupidatat aliqua sunt ex deserunt cupidatat nostrud ipsum qui cillum aliqua consectetur. Voluptate mollit ad esse minim aliquip eu ut ex.",
+    "mainImage": {
+      "url": "eiusmod.png"
+    },
+    "images": [
+      {
+        "url": "voluptate.png",
+        "description": "Proident elit Lorem deserunt do laborum cupidatat qui ad exercitation. Sunt id in aliqua ullamco."
+      },
+      {
+        "url": "cupidatat.png",
+        "description": "Sint ut tempor in dolor dolore exercitation non. Laborum laborum velit ex excepteur ullamco exercitation sunt in ad."
+      },
+      {
+        "url": "cillum.png",
+        "description": "Est excepteur consequat esse est exercitation tempor consectetur. Nisi aliqua deserunt dolore ea duis dolore pariatur ipsum sint quis exercitation ea ea."
+      },
+      {
+        "url": "magna.png",
+        "description": "Officia ipsum reprehenderit qui elit tempor irure exercitation culpa voluptate consectetur. Minim magna consectetur cillum sunt tempor eiusmod minim sint aliquip duis voluptate ipsum aliquip sunt."
+      }
+    ]
+  },
+  {
+    "SKU": "c686fa96-5a2f-450e-af9c-c3abb80ed2b2",
+    "price": 94.51,
+    "productFamily": "Shane's-Sweater",
+    "brand": "Shane's",
+    "type": "Sweater",
+    "color": "White",
+    "size": "Large",
+    "quantity": 0,
+    "shortDescription": "Elit eu Lorem reprehenderit id duis elit voluptate.",
+    "longDescription": "Sint irure aliqua Lorem et nulla. In enim adipisicing sint eu excepteur. Deserunt ea nostrud ex irure esse magna tempor aliquip incididunt velit cillum. Quis minim duis consectetur sunt nisi occaecat sunt sit irure excepteur sit. Proident consequat ex consequat esse pariatur non tempor velit occaecat dolore commodo cillum. Esse minim commodo ipsum elit quis. Et ad dolore ipsum quis minim ex aliqua duis. Nostrud et duis labore labore pariatur nisi consequat quis.",
+    "mainImage": {
+      "url": "irure.png"
+    },
+    "images": [
+      {
+        "url": "dolor.png",
+        "description": "Duis in fugiat laborum anim mollit nulla incididunt mollit elit laboris ad voluptate duis esse. Est nisi labore magna est cupidatat dolore dolore."
+      },
+      {
+        "url": "id.png",
+        "description": "Aliquip duis ea nisi quis in voluptate ea laborum aliqua irure. Nostrud enim ea sint exercitation velit et Lorem anim."
+      },
+      {
+        "url": "eiusmod.png",
+        "description": "Mollit aute elit nulla mollit deserunt Lorem velit dolore aliquip eiusmod enim ut. Commodo aute quis cillum amet sint incididunt."
+      },
+      {
+        "url": "tempor.png",
+        "description": "Esse consequat nisi esse excepteur officia do sunt qui veniam adipisicing est veniam id reprehenderit. Commodo officia ex amet qui eiusmod tempor sit officia laborum voluptate esse ea reprehenderit."
+      }
+    ]
+  },
+  {
+    "SKU": "b500bfb1-e98d-4293-ad90-1e485a6b461a",
+    "price": 19,
+    "productFamily": "Dilgan-Sweater",
+    "brand": "Dilgan",
+    "type": "Sweater",
+    "color": "White",
+    "size": "Large",
+    "quantity": 1,
+    "shortDescription": "Qui mollit veniam enim nostrud minim.",
+    "longDescription": "Ad ipsum in esse labore anim laboris quis. Laboris nulla laboris magna duis Lorem occaecat ipsum voluptate occaecat dolore in aute esse laborum. Minim sunt minim magna et proident anim. Velit ut non nisi et deserunt nostrud duis nulla minim ea Lorem ex. Culpa culpa id qui ad fugiat incididunt ut adipisicing dolor dolore Lorem ad. In est ullamco consequat amet ex non. Fugiat ea nostrud velit ut. Amet ullamco incididunt quis velit ut velit.",
+    "mainImage": {
+      "url": "ex.png"
+    },
+    "images": [
+      {
+        "url": "nostrud.png",
+        "description": "In fugiat elit ad ad pariatur. Sunt dolor ea ad ex sint duis ea nostrud."
+      },
+      {
+        "url": "ullamco.png",
+        "description": "Sunt ea in reprehenderit cupidatat cupidatat reprehenderit. Quis ipsum veniam voluptate consequat id minim occaecat sunt."
+      },
+      {
+        "url": "dolor.png",
+        "description": "Magna aliquip pariatur eiusmod do pariatur commodo in amet quis consequat. Fugiat cupidatat nostrud amet labore eu aliquip pariatur ut magna est eiusmod nulla."
+      },
+      {
+        "url": "velit.png",
+        "description": "Nulla et fugiat minim sint irure aliqua esse id elit et officia velit. Eiusmod fugiat proident ut nisi duis nulla."
+      }
+    ]
+  },
+  {
+    "SKU": "23d20c29-dd62-409c-9098-1578b44bed5f",
+    "price": 96.43,
+    "productFamily": "Dilgan-Sweater",
+    "brand": "Dilgan",
+    "type": "Sweater",
+    "color": "Pink",
+    "size": "Large",
+    "quantity": 0,
+    "shortDescription": "Deserunt qui nulla esse nostrud.",
+    "longDescription": "Lorem laboris aliquip sint enim irure voluptate. Incididunt aute cupidatat voluptate enim irure ipsum qui enim eiusmod mollit ad nulla deserunt. Id dolor quis ad in laborum dolor mollit ad fugiat adipisicing et ea tempor. Proident consectetur dolor aliquip sint. Nostrud id ea do quis. Velit sit incididunt nulla tempor proident cillum consectetur anim dolor nulla consequat magna proident pariatur. Do nostrud velit mollit ipsum labore sit magna ullamco eiusmod fugiat sint minim dolore in. Elit nisi aliquip mollit ut.",
+    "mainImage": {
+      "url": "anim.png"
+    },
+    "images": [
+      {
+        "url": "qui.png",
+        "description": "Dolor enim incididunt laboris reprehenderit duis aute voluptate sunt adipisicing qui consequat aliqua officia sit. Nostrud fugiat labore tempor sit in veniam consectetur irure culpa sint aliquip commodo."
+      },
+      {
+        "url": "nostrud.png",
+        "description": "Laborum incididunt nisi amet dolor cillum in. Esse aute irure incididunt ad ullamco Lorem do laborum consectetur officia."
+      },
+      {
+        "url": "labore.png",
+        "description": "Ipsum ex commodo deserunt proident adipisicing cupidatat magna ex qui commodo incididunt id aliqua. Duis pariatur nulla in laborum mollit exercitation."
+      },
+      {
+        "url": "magna.png",
+        "description": "Magna proident do aliquip ut voluptate velit quis. Lorem adipisicing culpa qui commodo occaecat Lorem enim magna laboris incididunt fugiat sunt pariatur excepteur."
+      }
+    ]
+  },
+  {
+    "SKU": "9a17d8f2-4bf6-4816-a515-de056f910c75",
+    "price": 16.46,
+    "productFamily": "Dilgan-Sweater",
+    "brand": "Dilgan",
+    "type": "Sweater",
+    "color": "Red",
+    "size": "Small",
+    "quantity": 3,
+    "shortDescription": "Laborum labore reprehenderit Lorem qui ea culpa nostrud ad incididunt elit ea exercitation ex commodo.",
+    "longDescription": "Culpa ipsum cillum aliqua minim in eiusmod ex velit elit. Proident aute voluptate sunt nulla ea quis voluptate ad. Ut aliqua deserunt ad veniam laboris eu excepteur incididunt exercitation proident qui aute et. Occaecat cupidatat reprehenderit magna incididunt quis enim eiusmod magna in. Do tempor nulla Lorem do ipsum nulla excepteur do et voluptate occaecat. Do sit labore eu dolor. Dolor reprehenderit eu exercitation id elit esse ad consectetur. Fugiat ad est incididunt dolor occaecat aute culpa nostrud reprehenderit incididunt et amet.",
+    "mainImage": {
+      "url": "proident.png"
+    },
+    "images": [
+      {
+        "url": "ea.png",
+        "description": "Est non fugiat ut irure culpa irure quis mollit id Lorem Lorem dolor velit. Quis amet officia non sint ut."
+      },
+      {
+        "url": "do.png",
+        "description": "Ad excepteur occaecat et ex officia deserunt aliquip occaecat laborum excepteur. Pariatur consectetur ipsum consectetur excepteur."
+      },
+      {
+        "url": "ex.png",
+        "description": "Laborum excepteur veniam dolor consectetur aliqua laborum in irure anim laboris commodo consequat. Elit nisi est ut incididunt do."
+      },
+      {
+        "url": "exercitation.png",
+        "description": "Proident adipisicing proident dolore adipisicing velit voluptate. Laboris aute officia magna amet dolore laboris dolore cupidatat anim ex duis elit commodo nostrud."
+      }
+    ]
+  },
+  {
+    "SKU": "8f840212-bc23-491f-b9ee-2a0491d3ad91",
+    "price": 81.44,
+    "productFamily": "Dilgan-Hat",
+    "brand": "Dilgan",
+    "type": "Hat",
+    "color": "Pink",
+    "size": "Small",
+    "quantity": 2,
+    "shortDescription": "Sit exercitation culpa ex irure commodo occaecat ea proident culpa ex.",
+    "longDescription": "Voluptate ex et occaecat ad sint. Minim voluptate dolore nulla incididunt incididunt amet voluptate eiusmod proident sunt. Est mollit aute aliqua non. Laboris quis elit do laborum nisi. Laborum velit ex ea esse nulla anim mollit Lorem. Consectetur ullamco mollit exercitation ea aliquip pariatur tempor id magna. Dolor ex exercitation dolore quis sint tempor qui ex minim deserunt consectetur et amet. Id consectetur laboris est adipisicing consequat.",
+    "mainImage": {
+      "url": "qui.png"
+    },
+    "images": [
+      {
+        "url": "fugiat.png",
+        "description": "Duis cillum quis sunt in sint et Lorem eiusmod adipisicing eiusmod. Id cillum deserunt reprehenderit qui ea aliquip sunt nostrud nostrud ullamco mollit nisi."
+      },
+      {
+        "url": "ex.png",
+        "description": "Excepteur ea ad consequat pariatur voluptate. Amet aliquip occaecat id qui."
+      },
+      {
+        "url": "deserunt.png",
+        "description": "Exercitation nulla incididunt mollit reprehenderit adipisicing anim sit est consectetur cillum quis. Magna et anim id proident dolore ea fugiat consectetur incididunt deserunt elit cillum fugiat ad."
+      },
+      {
+        "url": "dolore.png",
+        "description": "Reprehenderit enim nostrud consequat mollit exercitation nisi. Officia pariatur occaecat excepteur nulla eu et mollit cupidatat minim."
+      }
+    ]
+  },
+  {
+    "SKU": "5a035ef9-f01c-4ea4-8b70-6cef4203ff57",
+    "price": 25.16,
+    "productFamily": "Dilgan-Sweater",
+    "brand": "Dilgan",
+    "type": "Sweater",
+    "color": "Blue",
+    "size": "Small",
+    "quantity": 2,
+    "shortDescription": "Proident duis id ipsum voluptate do reprehenderit in et consectetur.",
+    "longDescription": "Velit est sit occaecat et id. Do irure ex voluptate in incididunt mollit ad in est pariatur aute officia dolore proident. Aliquip elit ex duis veniam elit labore cillum fugiat anim. Fugiat occaecat voluptate sint labore irure ex et. Dolor consectetur exercitation exercitation Lorem sint sunt sint duis in labore enim eu. Ut labore eu mollit velit Lorem esse exercitation dolor laboris amet nisi Lorem adipisicing tempor. Quis ullamco Lorem veniam sint tempor ad laborum reprehenderit labore nisi aute sit. Occaecat eu adipisicing exercitation Lorem consectetur cupidatat.",
+    "mainImage": {
+      "url": "eu.png"
+    },
+    "images": [
+      {
+        "url": "labore.png",
+        "description": "Ex non anim veniam nostrud. Anim enim ullamco elit ea minim esse esse minim sint laborum enim dolor non."
+      },
+      {
+        "url": "fugiat.png",
+        "description": "Consectetur nulla fugiat dolore cillum ex mollit in. Aliquip qui aliquip ad anim anim enim consectetur Lorem anim exercitation amet."
+      },
+      {
+        "url": "aliqua.png",
+        "description": "Ullamco fugiat consectetur pariatur culpa deserunt nulla labore cupidatat labore esse tempor sit ex. Eu sint cillum incididunt velit aute."
+      },
+      {
+        "url": "non.png",
+        "description": "Esse cupidatat proident exercitation officia culpa irure. In qui Lorem minim elit ad dolore non sunt et elit consequat."
+      }
+    ]
+  },
+  {
+    "SKU": "ef618e8d-52dc-4c55-b5dc-c5c7b1ab04d4",
+    "price": 70.96,
+    "productFamily": "Dilgan-Hat",
+    "brand": "Dilgan",
+    "type": "Hat",
+    "color": "Navy",
+    "size": "Medium",
+    "quantity": 0,
+    "shortDescription": "Ipsum nostrud eu duis eiusmod tempor voluptate voluptate non sunt cupidatat pariatur occaecat.",
+    "longDescription": "Sunt aute aute do in enim. Cupidatat enim commodo consequat cupidatat aute ut sit amet anim laborum. Consectetur mollit elit excepteur dolor id laboris duis fugiat ullamco velit magna ipsum incididunt. Voluptate cupidatat fugiat Lorem aliquip quis incididunt. In velit anim non Lorem occaecat nulla nulla aliquip voluptate. Mollit minim irure adipisicing reprehenderit sint occaecat consequat aute veniam velit tempor veniam. Occaecat duis tempor veniam occaecat fugiat et incididunt aliquip amet nulla sit aliqua. Commodo minim exercitation quis esse occaecat tempor officia ea aute tempor.",
+    "mainImage": {
+      "url": "et.png"
+    },
+    "images": [
+      {
+        "url": "anim.png",
+        "description": "Labore Lorem elit eiusmod cillum eu occaecat ullamco dolore voluptate ipsum. Proident ex ut nostrud occaecat pariatur adipisicing magna quis."
+      },
+      {
+        "url": "dolor.png",
+        "description": "Sit labore do officia nostrud ad commodo esse eiusmod pariatur occaecat id. Veniam culpa Lorem consectetur nulla quis."
+      },
+      {
+        "url": "elit.png",
+        "description": "Proident aute velit labore adipisicing eu ullamco magna ex ex sint. Incididunt sit non excepteur enim."
+      },
+      {
+        "url": "exercitation.png",
+        "description": "Ea eiusmod sit laboris quis nulla elit labore. Aute eiusmod incididunt esse culpa fugiat et tempor minim aliquip mollit."
+      }
+    ]
+  },
+  {
+    "SKU": "9ab6ffc0-4ac3-4ebf-9d3e-541492acaf89",
+    "price": 11.47,
+    "productFamily": "Shane's-T-Shirt",
+    "brand": "Shane's",
+    "type": "T-Shirt",
+    "color": "Black",
+    "size": "Small",
+    "quantity": 2,
+    "shortDescription": "Tempor cillum deserunt dolore est et.",
+    "longDescription": "Mollit est nostrud labore elit duis ipsum proident officia sunt est quis duis. Laboris ea mollit irure ullamco sunt sunt aliquip dolore enim labore minim. Mollit eiusmod commodo aliqua nostrud. Nisi laborum officia commodo officia et qui sit non in eu deserunt ad cillum. Culpa ad esse fugiat anim eiusmod nulla elit mollit aliquip in anim esse aliqua. Occaecat fugiat labore officia et nisi. Dolor voluptate officia qui ullamco id adipisicing officia reprehenderit tempor aute fugiat ipsum. Sint excepteur excepteur dolor sunt elit in velit Lorem culpa velit aliqua.",
+    "mainImage": {
+      "url": "quis.png"
+    },
+    "images": [
+      {
+        "url": "commodo.png",
+        "description": "Sint cupidatat enim pariatur tempor ullamco cillum velit ad labore ea. Aliquip occaecat nostrud duis aliqua aliqua sit id duis irure ut anim."
+      },
+      {
+        "url": "elit.png",
+        "description": "Ea dolore ut magna aute sit dolore quis culpa Lorem veniam eiusmod laborum. Sit ea nostrud nostrud et eiusmod sint ipsum duis velit consequat."
+      },
+      {
+        "url": "ea.png",
+        "description": "Laborum magna commodo aute cillum non voluptate duis dolore sunt nisi sint aute reprehenderit reprehenderit. Laboris eu quis tempor eu ut."
+      },
+      {
+        "url": "exercitation.png",
+        "description": "Quis cillum nisi sit laborum ea occaecat dolor culpa sint aliqua. Duis fugiat enim pariatur magna in deserunt nulla ut et officia aliquip qui ea anim."
+      }
+    ]
+  },
+  {
+    "SKU": "4fe727a3-7566-4aee-891d-76e38dfbe88b",
+    "price": 63.63,
+    "productFamily": "Shane's-Sweater",
+    "brand": "Shane's",
+    "type": "Sweater",
+    "color": "Blue",
+    "size": "Small",
+    "quantity": 2,
+    "shortDescription": "Cupidatat ea commodo excepteur dolor nisi.",
+    "longDescription": "Incididunt aliquip ut cillum velit pariatur deserunt amet. Ex sunt duis laborum minim sint. Ut do quis irure culpa ad exercitation id eu occaecat id officia incididunt culpa. Sint est officia dolore ex irure incididunt aliqua do. Enim duis laboris eu commodo cillum cupidatat officia non enim. Ad consectetur do nisi esse velit qui pariatur nulla mollit labore mollit id. Magna Lorem incididunt ex sint occaecat esse cupidatat exercitation adipisicing elit esse nulla id consequat. Cillum cupidatat amet nostrud esse veniam reprehenderit sit anim esse adipisicing esse aliqua mollit ex.",
+    "mainImage": {
+      "url": "ea.png"
+    },
+    "images": [
+      {
+        "url": "nulla.png",
+        "description": "Eiusmod reprehenderit anim consequat eiusmod magna Lorem. Quis labore dolore cillum qui culpa Lorem officia dolor et nostrud commodo id."
+      },
+      {
+        "url": "eiusmod.png",
+        "description": "Velit laborum Lorem eiusmod consequat. Nisi sit eu do id dolore id consectetur occaecat amet sunt est enim dolor."
+      },
+      {
+        "url": "aliqua.png",
+        "description": "Eiusmod adipisicing voluptate ut amet eiusmod aute magna dolore ea Lorem veniam anim sint. In cillum id velit pariatur."
+      },
+      {
+        "url": "laborum.png",
+        "description": "Culpa id sunt veniam officia sit excepteur enim consequat fugiat occaecat aute ea ullamco. Duis dolor enim labore consectetur tempor velit minim est do tempor do eu."
+      }
+    ]
+  },
+  {
+    "SKU": "c294e821-b1cd-47f2-b421-abdc971a82eb",
+    "price": 2.54,
+    "productFamily": "Veggies of the Spinning Wheel-T-Shirt",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "T-Shirt",
+    "color": "White",
+    "size": "Small",
+    "quantity": 3,
+    "shortDescription": "Dolor culpa tempor duis Lorem excepteur cillum ullamco dolor pariatur occaecat voluptate minim.",
+    "longDescription": "Voluptate in sit labore ex amet commodo aute exercitation in aliquip velit. Veniam sit nostrud ut Lorem. Ad nostrud proident aliquip sint cupidatat non labore quis laborum ea incididunt ullamco laboris nisi. Velit in sint nostrud esse quis voluptate ad deserunt nostrud nisi. Occaecat sit laborum labore id esse aliquip exercitation labore veniam cillum. Anim pariatur exercitation labore in nulla. Consequat ex id veniam ut ipsum ipsum veniam veniam. Proident aute commodo magna dolore ex labore labore ut exercitation excepteur culpa nisi est qui.",
+    "mainImage": {
+      "url": "minim.png"
+    },
+    "images": [
+      {
+        "url": "aliqua.png",
+        "description": "Veniam laborum mollit cillum cillum ipsum laborum voluptate qui eiusmod sunt occaecat. Duis cillum eu aute nostrud in esse ad."
+      },
+      {
+        "url": "exercitation.png",
+        "description": "Aliqua elit consectetur tempor velit tempor. Exercitation do et laborum sit non quis."
+      },
+      {
+        "url": "cillum.png",
+        "description": "Esse do esse occaecat anim commodo officia elit pariatur esse in mollit. Do consequat ipsum dolor tempor culpa qui incididunt excepteur reprehenderit."
+      },
+      {
+        "url": "excepteur.png",
+        "description": "Do aliqua cupidatat anim duis incididunt incididunt sunt excepteur ea labore laborum mollit anim. Duis sit exercitation amet in aute anim incididunt ullamco laboris."
+      }
+    ]
+  },
+  {
+    "SKU": "60170e6a-801a-43fe-9776-55ece3968403",
+    "price": 22.83,
+    "productFamily": "Veggies of the Spinning Wheel-T-Shirt",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "T-Shirt",
+    "color": "Orange",
+    "size": "Extra Large",
+    "quantity": 0,
+    "shortDescription": "Mollit deserunt duis commodo ea labore.",
+    "longDescription": "Proident sunt irure amet est. Sunt nostrud eiusmod occaecat Lorem eiusmod tempor velit non aliqua et. Dolore ad commodo minim ipsum commodo laborum duis ex mollit nulla Lorem ut nostrud veniam. Et occaecat magna Lorem culpa ex est qui officia labore labore cillum amet voluptate. Ipsum pariatur fugiat proident Lorem cupidatat anim in voluptate sit quis magna dolore est quis. Et aliqua tempor est eu esse ea eiusmod deserunt anim. Velit nostrud dolor enim eu. Esse qui cillum consectetur cupidatat ullamco mollit commodo reprehenderit cillum labore irure ea.",
+    "mainImage": {
+      "url": "consequat.png"
+    },
+    "images": [
+      {
+        "url": "sunt.png",
+        "description": "Incididunt magna consequat culpa qui voluptate est magna adipisicing incididunt. Culpa et nulla dolor tempor ex dolor sit non tempor tempor qui."
+      },
+      {
+        "url": "voluptate.png",
+        "description": "Laboris ad veniam deserunt est reprehenderit velit. Fugiat enim qui sunt occaecat eu eiusmod commodo voluptate ullamco velit est quis amet tempor."
+      },
+      {
+        "url": "cillum.png",
+        "description": "Ut adipisicing pariatur irure culpa eiusmod. Qui duis non laborum non velit sit incididunt incididunt aliqua aliquip qui exercitation ea."
+      },
+      {
+        "url": "culpa.png",
+        "description": "Officia enim sit officia eu. Magna dolor velit esse adipisicing ex deserunt."
+      }
+    ]
+  },
+  {
+    "SKU": "255c3a44-b323-4818-9f8b-6f3ccbfff6b0",
+    "price": 52.18,
+    "productFamily": "Dilgan-T-Shirt",
+    "brand": "Dilgan",
+    "type": "T-Shirt",
+    "color": "Pink",
+    "size": "Small",
+    "quantity": 0,
+    "shortDescription": "Lorem consequat velit non pariatur do nisi do amet dolor dolor commodo labore enim.",
+    "longDescription": "Do do veniam eu sit ut duis aliqua ipsum aliquip. Commodo labore deserunt aliqua fugiat ex velit esse qui sunt commodo. Ea aliquip velit consequat commodo ut consectetur ex fugiat do. Culpa reprehenderit irure commodo adipisicing proident consequat excepteur consequat. Laboris minim aliquip enim pariatur reprehenderit nostrud qui elit in. Sit do occaecat dolor anim exercitation consequat deserunt id commodo dolore duis adipisicing eu. Dolore amet laboris duis eiusmod non. Nisi fugiat sunt adipisicing elit.",
+    "mainImage": {
+      "url": "exercitation.png"
+    },
+    "images": [
+      {
+        "url": "id.png",
+        "description": "Ipsum incididunt reprehenderit fugiat culpa. Pariatur est ad aute anim commodo."
+      },
+      {
+        "url": "duis.png",
+        "description": "Nisi qui qui deserunt Lorem mollit labore consequat. Exercitation dolor nulla deserunt anim velit Lorem deserunt dolor ut."
+      },
+      {
+        "url": "cillum.png",
+        "description": "Veniam incididunt cupidatat id anim id ut nostrud ad veniam officia. Sunt duis esse minim aute commodo duis occaecat."
+      },
+      {
+        "url": "nostrud.png",
+        "description": "Officia dolor cillum in esse ad id officia eu velit ut. Id elit pariatur nisi incididunt reprehenderit eiusmod ex proident deserunt."
+      }
+    ]
+  },
+  {
+    "SKU": "3226bf71-bad5-4e16-a99f-16f87bcfacba",
+    "price": 88.61,
+    "productFamily": "Dilgan-Sweater",
+    "brand": "Dilgan",
+    "type": "Sweater",
+    "color": "Blue",
+    "size": "Extra Large",
+    "quantity": 1,
+    "shortDescription": "Non culpa ad in ad esse officia.",
+    "longDescription": "Laborum non eiusmod veniam elit culpa duis ad adipisicing ex tempor aute aliqua. Officia laboris cupidatat amet est id quis sit. Aliqua non amet aliquip do sit. Minim qui veniam ad ut labore ea aute sunt est ea nulla anim laborum. Laboris reprehenderit aliqua ea ad velit esse aliqua minim incididunt ad. Cupidatat nulla reprehenderit voluptate magna irure nulla duis consequat ipsum pariatur eu. Exercitation dolor quis amet fugiat anim fugiat eiusmod. Veniam commodo cupidatat ex deserunt est cupidatat voluptate.",
+    "mainImage": {
+      "url": "reprehenderit.png"
+    },
+    "images": [
+      {
+        "url": "est.png",
+        "description": "Voluptate laboris aliqua magna dolore. Voluptate irure officia id labore ullamco esse officia commodo."
+      },
+      {
+        "url": "quis.png",
+        "description": "Lorem nisi dolore fugiat excepteur ullamco sunt amet incididunt ad fugiat esse non. Quis enim ad dolor magna tempor quis labore culpa fugiat elit velit ut exercitation nisi."
+      },
+      {
+        "url": "commodo.png",
+        "description": "Cupidatat veniam veniam incididunt aliqua consectetur ex esse sint sint culpa adipisicing duis et. Eiusmod ad elit non eiusmod Lorem reprehenderit incididunt do eiusmod amet qui."
+      },
+      {
+        "url": "labore.png",
+        "description": "Cillum reprehenderit ut enim esse et mollit eu deserunt adipisicing. Exercitation nostrud minim sunt non."
+      }
+    ]
+  },
+  {
+    "SKU": "bef3d2f8-7405-4e86-9eba-50c138f95bf3",
+    "price": 53.2,
+    "productFamily": "Dilgan-T-Shirt",
+    "brand": "Dilgan",
+    "type": "T-Shirt",
+    "color": "Navy",
+    "size": "Small",
+    "quantity": 0,
+    "shortDescription": "Magna enim ullamco officia proident ex aliqua elit sit labore cupidatat sit velit magna.",
+    "longDescription": "Eiusmod consectetur est culpa anim dolore aute ipsum commodo. Eu amet enim amet nulla eiusmod deserunt commodo in. Consequat labore qui cupidatat anim do nulla sunt aliquip ad non mollit minim. Esse voluptate anim velit mollit aliqua velit officia labore. Consectetur esse exercitation pariatur consectetur minim et minim irure labore deserunt aliquip fugiat qui id. Nostrud anim magna ad sit elit exercitation. Exercitation voluptate ut exercitation ullamco Lorem enim incididunt voluptate. Reprehenderit amet velit amet amet aliqua pariatur nostrud excepteur culpa enim veniam irure aute Lorem.",
+    "mainImage": {
+      "url": "incididunt.png"
+    },
+    "images": [
+      {
+        "url": "consectetur.png",
+        "description": "Minim do mollit incididunt nulla mollit aute est minim. Eiusmod dolor ut irure do tempor sit duis labore."
+      },
+      {
+        "url": "excepteur.png",
+        "description": "Dolore in duis amet ipsum nisi amet non cillum commodo mollit anim in. Ad laborum qui aliquip tempor ullamco ea sunt commodo mollit."
+      },
+      {
+        "url": "in.png",
+        "description": "Eu cupidatat aliquip sunt sint excepteur amet ipsum veniam. Labore velit incididunt eiusmod laborum amet irure."
+      },
+      {
+        "url": "minim.png",
+        "description": "Nisi duis mollit quis tempor labore ullamco cillum reprehenderit tempor minim anim exercitation nulla consectetur. Pariatur veniam tempor elit eiusmod."
+      }
+    ]
+  },
+  {
+    "SKU": "401f1ee1-0c7c-4f64-94be-2feed9922d6a",
+    "price": 2.42,
+    "productFamily": "Dilgan-T-Shirt",
+    "brand": "Dilgan",
+    "type": "T-Shirt",
+    "color": "Orange",
+    "size": "Extra Large",
+    "quantity": 3,
+    "shortDescription": "Labore laboris aliqua do sint in ex ex deserunt aute occaecat sint ipsum sint.",
+    "longDescription": "Ea Lorem esse sint tempor deserunt et nulla culpa do. Laboris duis elit adipisicing dolor ad elit voluptate ea. Eu mollit duis voluptate velit sit minim culpa anim do pariatur mollit commodo. Tempor nisi aliquip mollit quis sint ullamco proident nostrud nostrud dolor dolore reprehenderit reprehenderit consequat. Ea ut eiusmod tempor ex. Fugiat nisi ad non ullamco officia. Mollit velit deserunt cupidatat quis aliqua duis dolore esse. Eu mollit consequat sit cillum sunt aliquip aliqua et irure Lorem exercitation aliquip nisi pariatur.",
+    "mainImage": {
+      "url": "irure.png"
+    },
+    "images": [
+      {
+        "url": "incididunt.png",
+        "description": "Minim ad ullamco amet aliqua. Ullamco nisi proident esse deserunt quis tempor mollit."
+      },
+      {
+        "url": "et.png",
+        "description": "Sunt esse in sint proident pariatur et pariatur sit pariatur. Exercitation sint sint laboris sint excepteur nulla consequat ipsum ad nostrud ad commodo deserunt tempor."
+      },
+      {
+        "url": "cupidatat.png",
+        "description": "Commodo anim id sint incididunt exercitation ad minim minim exercitation. Ad qui aliquip qui in amet eiusmod irure velit qui pariatur enim id incididunt tempor."
+      },
+      {
+        "url": "aliquip.png",
+        "description": "Adipisicing cupidatat aliquip cupidatat nulla ad. Magna enim deserunt tempor officia aute sint magna quis ex adipisicing ipsum excepteur."
+      }
+    ]
+  },
+  {
+    "SKU": "98dad345-05bb-420b-986b-af7d0820537f",
+    "price": 87.95,
+    "productFamily": "Shane's-T-Shirt",
+    "brand": "Shane's",
+    "type": "T-Shirt",
+    "color": "White",
+    "size": "Large",
+    "quantity": 3,
+    "shortDescription": "Non magna nulla ullamco aute do duis labore ullamco.",
+    "longDescription": "Ea sunt amet ea labore est occaecat est. Dolor eiusmod aliqua enim dolore sint proident occaecat elit nulla non cillum eiusmod. Veniam aute reprehenderit consectetur duis officia quis nulla. In enim deserunt eu minim exercitation. Tempor officia labore non in adipisicing officia cupidatat dolore mollit ullamco do id. Tempor eu ea laboris magna officia dolor exercitation dolor. Culpa nulla ad labore non consequat enim ea. Ea labore sint laborum ut voluptate nisi enim fugiat voluptate laborum dolor tempor do.",
+    "mainImage": {
+      "url": "amet.png"
+    },
+    "images": [
+      {
+        "url": "sunt.png",
+        "description": "Minim ad adipisicing eu irure irure exercitation tempor cupidatat excepteur enim enim. Incididunt proident sit in commodo adipisicing quis nostrud nostrud magna consequat adipisicing deserunt labore minim."
+      },
+      {
+        "url": "ad.png",
+        "description": "Lorem Lorem officia incididunt ex laboris irure adipisicing et ut incididunt nostrud ex. Anim laboris minim id dolor."
+      },
+      {
+        "url": "anim.png",
+        "description": "Minim minim aliquip dolor elit amet veniam id. Irure aute irure ullamco irure ipsum laborum duis ea nostrud consequat adipisicing cillum pariatur."
+      },
+      {
+        "url": "nostrud.png",
+        "description": "Nulla laborum ea nulla aliquip ex id. Culpa deserunt et veniam sint et."
+      }
+    ]
+  },
+  {
+    "SKU": "1a61d5a2-e964-4954-9178-623e8db1f9f4",
+    "price": 49.74,
+    "productFamily": "Shane's-Sweater",
+    "brand": "Shane's",
+    "type": "Sweater",
+    "color": "White",
+    "size": "Small",
+    "quantity": 3,
+    "shortDescription": "Laboris ullamco occaecat ad anim ad ipsum aliquip incididunt cupidatat dolore labore laboris proident deserunt.",
+    "longDescription": "Eu consectetur sit eu amet veniam. Labore in fugiat anim fugiat magna nostrud dolore esse nulla ea sit eiusmod excepteur laboris. Exercitation excepteur sit aute exercitation dolore labore eiusmod cillum. Aliqua exercitation amet consequat sint in occaecat officia ipsum sit deserunt laborum. Nisi adipisicing fugiat et dolore anim fugiat aute Lorem. Elit aute ipsum non enim. Sunt id aute laborum cupidatat ut culpa officia duis laboris. Eu esse exercitation deserunt nulla laboris enim.",
+    "mainImage": {
+      "url": "pariatur.png"
+    },
+    "images": [
+      {
+        "url": "velit.png",
+        "description": "Velit velit ipsum sint deserunt labore nulla excepteur reprehenderit enim ea do ea. Eu amet magna ex ullamco dolor velit elit laborum."
+      },
+      {
+        "url": "in.png",
+        "description": "Nulla esse excepteur amet magna ad non voluptate laborum enim aliqua cillum. Consequat laboris cillum exercitation consectetur anim proident officia ut."
+      },
+      {
+        "url": "Lorem.png",
+        "description": "Exercitation nisi est amet sint ipsum sunt cupidatat elit. Ut adipisicing ad ex sunt."
+      },
+      {
+        "url": "ex.png",
+        "description": "Duis ipsum nulla ad non. Sint veniam sint pariatur cillum minim mollit occaecat laboris in eu ut id tempor amet."
+      }
+    ]
+  },
+  {
+    "SKU": "718bf063-b6d3-4fa8-b504-b7456fa6eefb",
+    "price": 47.87,
+    "productFamily": "Shane's-Sweater",
+    "brand": "Shane's",
+    "type": "Sweater",
+    "color": "Black",
+    "size": "Medium",
+    "quantity": 1,
+    "shortDescription": "Exercitation aute deserunt irure non dolor sunt cupidatat nisi nostrud aliqua enim esse.",
+    "longDescription": "Anim nulla reprehenderit adipisicing mollit excepteur do. Qui Lorem eiusmod excepteur eu deserunt cillum. Cillum elit id laboris commodo. Consectetur deserunt fugiat occaecat elit aliqua qui. Enim excepteur excepteur exercitation id in dolor anim nisi sint minim nisi. Officia non ut aute velit. Cillum fugiat excepteur cillum dolor do laborum eu irure eu nostrud dolore laboris amet quis. Excepteur consectetur laboris non in.",
+    "mainImage": {
+      "url": "minim.png"
+    },
+    "images": [
+      {
+        "url": "laboris.png",
+        "description": "Culpa aliqua do exercitation officia deserunt quis excepteur aliqua veniam quis id officia eiusmod. Deserunt tempor mollit ex ut ipsum consequat nostrud aute."
+      },
+      {
+        "url": "occaecat.png",
+        "description": "Labore aute eu laborum laborum ipsum cillum dolore labore anim veniam. Ad ut laborum mollit officia amet irure reprehenderit voluptate cupidatat irure."
+      },
+      {
+        "url": "elit.png",
+        "description": "Sit nisi dolor voluptate elit officia exercitation consectetur. Eiusmod magna quis magna est nostrud ut excepteur duis."
+      },
+      {
+        "url": "cupidatat.png",
+        "description": "Consequat do consequat do sunt ullamco consectetur velit ullamco magna duis. Ipsum nulla esse consectetur incididunt."
+      }
+    ]
+  },
+  {
+    "SKU": "d775b316-a17c-4461-9917-5e71ad3c42a0",
+    "price": 12.7,
+    "productFamily": "Shane's-Sweater",
+    "brand": "Shane's",
+    "type": "Sweater",
+    "color": "Black",
+    "size": "Extra Large",
+    "quantity": 1,
+    "shortDescription": "Mollit in dolor deserunt enim proident aliqua nostrud et amet anim ipsum nostrud excepteur.",
+    "longDescription": "Consequat reprehenderit ex est quis magna et. Officia eu minim non labore elit esse et esse incididunt aliqua culpa quis ut. Laborum amet eu non excepteur commodo nisi duis do dolor. Reprehenderit laboris deserunt ut reprehenderit enim voluptate aliquip mollit duis. Deserunt cupidatat duis non labore voluptate est elit nostrud non adipisicing. Veniam dolore nulla veniam magna consectetur laboris cillum do velit magna deserunt culpa. Est sint sint enim culpa consectetur incididunt adipisicing aliqua. Est enim voluptate ullamco nulla excepteur ipsum proident laboris cillum.",
+    "mainImage": {
+      "url": "Lorem.png"
+    },
+    "images": [
+      {
+        "url": "ea.png",
+        "description": "Id cupidatat excepteur dolor voluptate mollit nisi culpa in in exercitation mollit. Veniam minim veniam anim aliquip aliquip enim culpa est adipisicing mollit eu."
+      },
+      {
+        "url": "proident.png",
+        "description": "Est fugiat non magna ex incididunt ullamco exercitation enim fugiat officia aute excepteur pariatur. Sit consequat laborum duis aute do magna ad sunt et."
+      },
+      {
+        "url": "id.png",
+        "description": "Excepteur enim nostrud commodo aliqua in ad esse excepteur. Ad irure velit quis occaecat adipisicing nisi exercitation aliqua magna exercitation occaecat."
+      },
+      {
+        "url": "occaecat.png",
+        "description": "In excepteur fugiat nisi esse officia duis est. Ut consequat irure nisi voluptate nulla est velit officia est adipisicing et sunt quis consectetur."
+      }
+    ]
+  },
+  {
+    "SKU": "2cada0b5-2429-400f-8cd1-4b133bc76518",
+    "price": 0.09,
+    "productFamily": "Dilgan-Hat",
+    "brand": "Dilgan",
+    "type": "Hat",
+    "color": "Orange",
+    "size": "Medium",
+    "quantity": 1,
+    "shortDescription": "In pariatur fugiat commodo adipisicing quis elit consectetur sint laboris quis nisi consectetur.",
+    "longDescription": "Magna pariatur dolore officia enim eiusmod ipsum et irure culpa mollit laboris adipisicing ex nisi. Sit do aute cupidatat proident consequat laborum. Ullamco commodo reprehenderit veniam sit sit nisi pariatur reprehenderit laboris excepteur exercitation commodo incididunt. Non fugiat amet elit cillum velit tempor nulla in sunt nisi. Id commodo cupidatat et pariatur velit tempor. Aute commodo quis fugiat cupidatat duis. Commodo laboris voluptate officia Lorem veniam adipisicing. Excepteur proident commodo quis velit dolor magna cillum ullamco dolor.",
+    "mainImage": {
+      "url": "enim.png"
+    },
+    "images": [
+      {
+        "url": "qui.png",
+        "description": "In Lorem aute ex amet non duis deserunt adipisicing. Cillum velit duis sunt consequat adipisicing dolor exercitation Lorem aliqua incididunt velit."
+      },
+      {
+        "url": "eiusmod.png",
+        "description": "Do non amet id magna do duis commodo proident. Veniam minim labore duis duis magna fugiat eiusmod culpa ex."
+      },
+      {
+        "url": "ea.png",
+        "description": "Anim duis voluptate Lorem aliqua cillum nostrud consequat. Aliqua ipsum officia deserunt ipsum."
+      },
+      {
+        "url": "proident.png",
+        "description": "Anim dolore id ipsum esse ut. Excepteur quis proident commodo pariatur consequat consequat ad ex non amet officia mollit nostrud."
+      }
+    ]
+  },
+  {
+    "SKU": "0aaba4a1-8cb5-4f06-b2c9-608edd45fe3c",
+    "price": 52.63,
+    "productFamily": "Shane's-Hat",
+    "brand": "Shane's",
+    "type": "Hat",
+    "color": "Red",
+    "size": "Small",
+    "quantity": 3,
+    "shortDescription": "Officia enim labore anim in voluptate voluptate mollit fugiat duis occaecat.",
+    "longDescription": "Do enim cupidatat occaecat id laborum anim non sunt anim adipisicing magna voluptate. Id veniam et excepteur cillum sit adipisicing ut deserunt. Ipsum sit minim do exercitation mollit eiusmod irure officia consequat eiusmod nisi ad id mollit. Labore anim quis quis amet velit proident ullamco reprehenderit elit. Aliqua qui amet labore proident. Ad magna aliquip aute irure labore nisi. Consectetur Lorem dolore consequat commodo ea duis ad ut in fugiat adipisicing irure. Dolor officia sit excepteur qui tempor reprehenderit adipisicing esse commodo velit irure.",
+    "mainImage": {
+      "url": "duis.png"
+    },
+    "images": [
+      {
+        "url": "cupidatat.png",
+        "description": "Aliquip occaecat nulla fugiat Lorem reprehenderit ea Lorem commodo minim excepteur culpa est. Lorem occaecat deserunt proident ullamco dolore."
+      },
+      {
+        "url": "mollit.png",
+        "description": "Aute fugiat sit non cupidatat minim exercitation do aliquip velit elit deserunt ipsum labore occaecat. Deserunt eiusmod velit incididunt duis sit deserunt anim do est."
+      },
+      {
+        "url": "exercitation.png",
+        "description": "Incididunt aliquip aliqua quis ea occaecat officia. Dolore est in occaecat nulla laborum excepteur ex quis ut dolore aute magna."
+      },
+      {
+        "url": "id.png",
+        "description": "Ea irure duis sint ea labore Lorem occaecat minim nulla Lorem eiusmod sit aliqua exercitation. Culpa laboris in exercitation nostrud ut incididunt dolore irure."
+      }
+    ]
+  },
+  {
+    "SKU": "5be076e6-e398-4825-91c8-f860c9b83cac",
+    "price": 79.44,
+    "productFamily": "Shane's-T-Shirt",
+    "brand": "Shane's",
+    "type": "T-Shirt",
+    "color": "White",
+    "size": "Medium",
+    "quantity": 2,
+    "shortDescription": "Id minim fugiat occaecat voluptate nostrud cupidatat incididunt.",
+    "longDescription": "Exercitation irure in eiusmod cupidatat enim cupidatat occaecat voluptate minim aliqua cupidatat. Irure culpa irure dolor magna minim id. Laborum laboris est adipisicing fugiat irure eu commodo deserunt minim excepteur incididunt minim. Laborum esse consectetur occaecat irure ad nostrud pariatur mollit mollit nisi ea ut esse minim. Reprehenderit non in non incididunt mollit incididunt enim laboris irure excepteur anim deserunt. Aute enim non deserunt magna exercitation fugiat et consequat veniam et sunt mollit. Velit anim ea quis nostrud. Voluptate minim irure duis incididunt do sint duis esse irure reprehenderit culpa sunt ipsum esse.",
+    "mainImage": {
+      "url": "magna.png"
+    },
+    "images": [
+      {
+        "url": "irure.png",
+        "description": "Adipisicing cupidatat sint tempor eiusmod cupidatat. Enim sint ipsum dolore minim laborum fugiat eu dolor enim id fugiat."
+      },
+      {
+        "url": "tempor.png",
+        "description": "Eiusmod ad incididunt ad Lorem ea esse consectetur ipsum cupidatat ea labore aliqua officia. Irure nisi quis nostrud dolore fugiat nostrud eu."
+      },
+      {
+        "url": "adipisicing.png",
+        "description": "Sint ullamco voluptate dolore dolore commodo in pariatur cupidatat in aliquip velit minim incididunt excepteur. Id voluptate proident veniam proident est minim est ut deserunt."
+      },
+      {
+        "url": "in.png",
+        "description": "Id deserunt occaecat exercitation culpa laboris. Labore nulla occaecat adipisicing proident."
+      }
+    ]
+  },
+  {
+    "SKU": "b2423ff2-f047-4ed5-8a2c-9fedc48746fa",
+    "price": 87.41,
+    "productFamily": "Dilgan-Sweater",
+    "brand": "Dilgan",
+    "type": "Sweater",
+    "color": "Orange",
+    "size": "Large",
+    "quantity": 0,
+    "shortDescription": "Adipisicing consectetur adipisicing officia est mollit sint.",
+    "longDescription": "In mollit reprehenderit et esse ipsum ullamco anim sunt et. Eu consequat consequat ea deserunt. Esse aute dolore sunt ipsum ex mollit veniam culpa ullamco ex incididunt dolor. Minim sit mollit velit tempor nostrud adipisicing duis consectetur voluptate duis aliquip. Dolor labore labore dolore occaecat reprehenderit. Eiusmod ipsum est laborum laborum elit nulla aliquip do aliqua. Ut laborum minim esse commodo culpa laborum. Mollit ipsum reprehenderit ad sunt enim.",
+    "mainImage": {
+      "url": "culpa.png"
+    },
+    "images": [
+      {
+        "url": "culpa.png",
+        "description": "Nisi nulla consectetur dolor qui eu id. Eu cillum sit occaecat sit amet proident aute veniam officia minim ipsum sint."
+      },
+      {
+        "url": "esse.png",
+        "description": "Sit mollit ut et nulla est eiusmod exercitation cillum consectetur exercitation amet ut. Consequat elit reprehenderit labore sunt et."
+      },
+      {
+        "url": "occaecat.png",
+        "description": "Aliquip anim do laborum voluptate qui tempor aute ad duis sint ad. Proident non nulla commodo sint."
+      },
+      {
+        "url": "proident.png",
+        "description": "Labore ipsum nostrud consectetur veniam eiusmod esse pariatur sit. Amet ut Lorem pariatur elit Lorem minim elit."
+      }
+    ]
+  },
+  {
+    "SKU": "c85ecd5e-f06b-4817-bffc-11e108e9b2d7",
+    "price": 68.62,
+    "productFamily": "Veggies of the Spinning Wheel-T-Shirt",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "T-Shirt",
+    "color": "Navy",
+    "size": "Extra Large",
+    "quantity": 2,
+    "shortDescription": "Elit officia proident velit non id aute cillum amet.",
+    "longDescription": "Mollit occaecat eu veniam qui dolore incididunt esse excepteur. Tempor aute est et cillum duis commodo Lorem in ex aliqua proident incididunt labore nostrud. Esse amet adipisicing et sint. Lorem non consequat laborum eu pariatur duis aliquip. Consequat velit do ex enim proident Lorem id sunt aute culpa cupidatat quis fugiat. Minim aliquip irure ut qui. Cillum ullamco sit ullamco voluptate ipsum. Magna veniam nostrud reprehenderit laboris amet aute officia Lorem voluptate et nulla.",
+    "mainImage": {
+      "url": "labore.png"
+    },
+    "images": [
+      {
+        "url": "Lorem.png",
+        "description": "In minim Lorem qui amet minim aliquip irure culpa ipsum ipsum eiusmod. Reprehenderit excepteur id enim pariatur et magna."
+      },
+      {
+        "url": "ut.png",
+        "description": "Incididunt sint in dolor Lorem ullamco ullamco nisi. Do qui sit et ad amet aliqua."
+      },
+      {
+        "url": "tempor.png",
+        "description": "Esse non ullamco proident duis exercitation nisi nostrud laboris irure. Consectetur reprehenderit reprehenderit adipisicing irure nulla non est sunt duis."
+      },
+      {
+        "url": "eiusmod.png",
+        "description": "Ea esse sint consequat incididunt officia. Ex anim ipsum eu ipsum."
+      }
+    ]
+  },
+  {
+    "SKU": "4dd141cc-61e4-455b-b940-b27a27259046",
+    "price": 78.28,
+    "productFamily": "Veggies of the Spinning Wheel-T-Shirt",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "T-Shirt",
+    "color": "Pink",
+    "size": "Extra Large",
+    "quantity": 2,
+    "shortDescription": "Nisi aute cupidatat exercitation ut aute id proident adipisicing magna ex.",
+    "longDescription": "Id deserunt qui consectetur aute eu. Deserunt excepteur consectetur ea laborum duis nulla incididunt. Ut quis adipisicing sunt sint sit et eu occaecat quis culpa velit quis. Laboris commodo deserunt nisi velit laboris proident est dolore ex dolor. Incididunt ex labore adipisicing nostrud tempor ea commodo. Nostrud eu est adipisicing consequat non dolor magna eiusmod do. Culpa in nisi ut sunt consectetur eu elit sit do aute. Occaecat cillum proident dolore eiusmod proident irure non sit aute ullamco sint qui.",
+    "mainImage": {
+      "url": "est.png"
+    },
+    "images": [
+      {
+        "url": "sunt.png",
+        "description": "Ut veniam ea id pariatur. Anim nostrud sunt aliqua culpa esse sint non consequat excepteur eu commodo."
+      },
+      {
+        "url": "ullamco.png",
+        "description": "Pariatur do commodo est excepteur culpa aliquip. Enim officia proident amet irure in aute id sint enim sit."
+      },
+      {
+        "url": "dolore.png",
+        "description": "Tempor est sunt consectetur dolore enim minim dolor pariatur elit anim exercitation ipsum dolor. Aute ad laborum nisi occaecat irure esse incididunt do."
+      },
+      {
+        "url": "tempor.png",
+        "description": "Veniam adipisicing et duis aute velit aliquip elit. Deserunt esse et incididunt magna eu cupidatat est elit."
+      }
+    ]
+  },
+  {
+    "SKU": "44ae82f1-24b9-469b-b523-dc54387b455a",
+    "price": 92.71,
+    "productFamily": "Shane's-Sweater",
+    "brand": "Shane's",
+    "type": "Sweater",
+    "color": "Navy",
+    "size": "Small",
+    "quantity": 1,
+    "shortDescription": "Irure et fugiat aliquip ad enim do ad deserunt.",
+    "longDescription": "Quis laboris in ut occaecat nostrud pariatur ut velit aliquip anim esse. Lorem sint pariatur ullamco incididunt. Cillum nulla magna irure laboris dolor elit enim. Proident officia voluptate minim consectetur laborum laboris nisi. Esse ad eu ipsum aliquip voluptate quis duis. Esse excepteur cillum ullamco est in sunt sunt esse deserunt incididunt. Reprehenderit sint ea do dolor amet occaecat aliqua dolor sunt sunt. Eu pariatur duis ea aliqua ut adipisicing pariatur voluptate irure pariatur excepteur.",
+    "mainImage": {
+      "url": "Lorem.png"
+    },
+    "images": [
+      {
+        "url": "duis.png",
+        "description": "Cillum nostrud exercitation veniam nulla ea aliquip veniam. Commodo aute amet fugiat mollit officia incididunt."
+      },
+      {
+        "url": "voluptate.png",
+        "description": "Consequat ex aliquip nisi Lorem. Aliqua duis aute in qui enim magna magna officia magna proident est pariatur duis."
+      },
+      {
+        "url": "irure.png",
+        "description": "Velit mollit ea irure fugiat cillum proident enim culpa dolor magna nostrud veniam. Lorem id dolor ut esse laborum eiusmod cillum tempor nulla exercitation aliqua non in non."
+      },
+      {
+        "url": "est.png",
+        "description": "Consequat ea est ut cupidatat aliqua do est sint ad deserunt ad. Anim consectetur irure aliquip labore."
+      }
+    ]
+  },
+  {
+    "SKU": "acdc9406-76f0-4234-bbeb-dd77ea3bf75a",
+    "price": 65.16,
+    "productFamily": "Shane's-Hat",
+    "brand": "Shane's",
+    "type": "Hat",
+    "color": "Orange",
+    "size": "Extra Large",
+    "quantity": 0,
+    "shortDescription": "Officia non dolor id proident aliqua irure culpa culpa incididunt.",
+    "longDescription": "Ipsum do do consequat pariatur dolor ut deserunt. Exercitation adipisicing sunt eu est ipsum tempor veniam occaecat laboris qui et ut cupidatat. Dolore dolor adipisicing dolore dolor aliquip. Id exercitation eu aute laboris voluptate sint officia anim eiusmod nulla id. Amet amet aliqua sint in sit sint adipisicing mollit et laborum exercitation sint. Do ea eu fugiat commodo amet ut. Proident mollit et commodo minim consequat. Enim id excepteur officia esse est ea.",
+    "mainImage": {
+      "url": "ex.png"
+    },
+    "images": [
+      {
+        "url": "duis.png",
+        "description": "Dolore adipisicing proident ipsum ullamco aliquip commodo pariatur id. Cillum exercitation culpa pariatur elit incididunt Lorem nostrud."
+      },
+      {
+        "url": "eiusmod.png",
+        "description": "Exercitation mollit consequat ipsum quis sint magna non laborum. Tempor deserunt occaecat Lorem irure incididunt esse incididunt ex sint magna tempor pariatur ipsum et."
+      },
+      {
+        "url": "sint.png",
+        "description": "Ex veniam fugiat dolor nulla tempor magna excepteur ipsum minim ex. Elit labore fugiat eu adipisicing nisi dolor et eu ex nostrud nulla sunt ea."
+      },
+      {
+        "url": "sunt.png",
+        "description": "Aute irure aliqua duis reprehenderit elit tempor ut. Proident pariatur magna laboris do consequat sit magna nisi."
+      }
+    ]
+  },
+  {
+    "SKU": "f4560095-e4d6-4f82-8ea0-35e0275b3033",
+    "price": 73.89,
+    "productFamily": "Shane's-Sweater",
+    "brand": "Shane's",
+    "type": "Sweater",
+    "color": "Red",
+    "size": "Large",
+    "quantity": 3,
+    "shortDescription": "Sit elit sunt ad ipsum labore veniam duis consequat.",
+    "longDescription": "Mollit minim officia veniam qui Lorem minim id eiusmod non magna officia ea nisi amet. Incididunt aliqua eiusmod ut Lorem sint adipisicing tempor laboris in aliquip. Et quis ut esse eu irure ea ut. Quis pariatur proident labore Lorem enim. Amet eiusmod anim magna et id eu esse occaecat eu fugiat consequat cupidatat veniam labore. Nisi est do amet do voluptate non fugiat aliquip do velit irure in. Dolore quis velit cupidatat minim ex minim esse labore ullamco dolor do. Cupidatat nisi ea occaecat do nisi.",
+    "mainImage": {
+      "url": "officia.png"
+    },
+    "images": [
+      {
+        "url": "laborum.png",
+        "description": "Eiusmod nulla deserunt in aliquip sint tempor ex et in. Ipsum labore amet incididunt amet nulla qui qui enim amet dolor officia elit anim adipisicing."
+      },
+      {
+        "url": "velit.png",
+        "description": "Excepteur in aliqua veniam laboris in pariatur pariatur nisi non occaecat laboris. Cillum sunt magna exercitation magna id dolor pariatur qui nulla laboris tempor."
+      },
+      {
+        "url": "laboris.png",
+        "description": "Esse ex veniam ea dolor sunt cupidatat officia non mollit enim laborum cupidatat excepteur reprehenderit. Minim cupidatat eu magna nulla dolor."
+      },
+      {
+        "url": "aute.png",
+        "description": "Eu consequat consectetur incididunt ad id proident esse dolor. Fugiat do eu in ea ut ad."
+      }
+    ]
+  },
+  {
+    "SKU": "6e43d538-8ec7-4635-b858-906882bb058c",
+    "price": 96.87,
+    "productFamily": "Dilgan-T-Shirt",
+    "brand": "Dilgan",
+    "type": "T-Shirt",
+    "color": "Pink",
+    "size": "Medium",
+    "quantity": 2,
+    "shortDescription": "Laborum ut culpa Lorem occaecat et cupidatat id deserunt fugiat Lorem sit ullamco.",
+    "longDescription": "Laborum irure aute minim in laborum tempor fugiat et labore cupidatat officia. Pariatur aute enim proident elit. Deserunt ea ullamco culpa est exercitation tempor non. Ea fugiat ut elit non ullamco ullamco eiusmod magna velit magna consequat. In non commodo deserunt nostrud ipsum nisi veniam veniam ipsum consequat nulla incididunt minim. Dolor incididunt aliquip qui duis quis voluptate consequat. Lorem consectetur pariatur occaecat occaecat est enim incididunt sunt ea ea consequat tempor. Aliqua consectetur ut laboris tempor Lorem proident mollit quis eu aliquip.",
+    "mainImage": {
+      "url": "tempor.png"
+    },
+    "images": [
+      {
+        "url": "irure.png",
+        "description": "Nulla do in aliqua do quis elit Lorem pariatur elit nisi proident nulla. Duis ullamco ipsum do et dolor laboris reprehenderit."
+      },
+      {
+        "url": "duis.png",
+        "description": "Id nostrud reprehenderit incididunt dolore ipsum ipsum veniam ex commodo et dolore. Nulla sunt eu ipsum ut."
+      },
+      {
+        "url": "aliqua.png",
+        "description": "Labore non aliquip id officia velit enim eiusmod voluptate exercitation. Fugiat incididunt sint non ipsum sunt adipisicing exercitation sint et enim excepteur officia."
+      },
+      {
+        "url": "veniam.png",
+        "description": "Anim id commodo sunt ipsum eu esse magna excepteur velit minim ea Lorem mollit. Elit ad qui tempor labore."
+      }
+    ]
+  },
+  {
+    "SKU": "ccf1335c-252d-43c7-92e0-d68d0c034a22",
+    "price": 10.21,
+    "productFamily": "Veggies of the Spinning Wheel-Hat",
+    "brand": "Veggies of the Spinning Wheel",
+    "type": "Hat",
+    "color": "Black",
+    "size": "Small",
+    "quantity": 1,
+    "shortDescription": "Ea laboris anim exercitation magna laboris veniam minim eu elit fugiat eiusmod velit.",
+    "longDescription": "Fugiat adipisicing voluptate quis do ut elit eu incididunt sint nulla est est consectetur amet. Est eu sint nisi deserunt. Pariatur do cillum elit non consectetur et est commodo nulla. Quis nostrud velit in dolor ex reprehenderit incididunt qui. Culpa ipsum incididunt incididunt non ea ut aute nulla cupidatat mollit anim in. Aute eu aliqua culpa incididunt laboris labore do cupidatat aute anim adipisicing in est magna. Dolor ad proident adipisicing ut velit veniam mollit consectetur exercitation irure amet ullamco culpa. Minim nostrud et est sunt deserunt adipisicing aliquip enim nulla adipisicing elit dolor reprehenderit.",
+    "mainImage": {
+      "url": "proident.png"
+    },
+    "images": [
+      {
+        "url": "et.png",
+        "description": "Aliqua sint do ut aliquip velit est commodo cillum enim nisi non dolor. Tempor deserunt minim eiusmod culpa eiusmod incididunt."
+      },
+      {
+        "url": "ea.png",
+        "description": "Anim Lorem ullamco dolore adipisicing quis nulla pariatur culpa sunt. Cupidatat ullamco exercitation labore anim dolor magna."
+      },
+      {
+        "url": "Lorem.png",
+        "description": "Mollit amet labore nulla labore pariatur aliquip. Excepteur labore adipisicing ipsum adipisicing deserunt qui enim."
+      },
+      {
+        "url": "officia.png",
+        "description": "Sunt labore incididunt sint nostrud qui culpa commodo nostrud consectetur incididunt. Commodo aliquip aliquip sunt magna."
+      }
+    ]
+  },
+  {
+    "SKU": "b2e2ccd1-9a6a-43c4-bfce-ef88b0c7ba5f",
+    "price": 19.31,
+    "productFamily": "Dilgan-Hat",
+    "brand": "Dilgan",
+    "type": "Hat",
+    "color": "White",
+    "size": "Large",
+    "quantity": 3,
+    "shortDescription": "Dolore nisi ullamco anim consequat.",
+    "longDescription": "Duis veniam veniam fugiat esse irure exercitation id ex amet. Dolore mollit aliqua qui officia aute exercitation pariatur duis do occaecat consectetur cupidatat aute. Culpa ullamco amet dolore occaecat officia laborum id. Exercitation pariatur est nisi in dolor tempor enim velit tempor dolore duis Lorem. Quis adipisicing laboris reprehenderit ut aliquip sit minim ea ex aliquip. Cillum ut excepteur exercitation sunt aliquip deserunt quis id eiusmod. Eu sint adipisicing sit velit consectetur in eiusmod dolor nisi id aliqua consequat est qui. Deserunt ad officia ut ex.",
+    "mainImage": {
+      "url": "voluptate.png"
+    },
+    "images": [
+      {
+        "url": "minim.png",
+        "description": "Consectetur do exercitation dolore dolor cupidatat incididunt duis irure est. Esse culpa ea cupidatat magna sint non cillum ut."
+      },
+      {
+        "url": "proident.png",
+        "description": "Et dolor dolore aute do ea Lorem consectetur. Adipisicing eiusmod exercitation enim quis eu veniam enim consectetur enim eu."
+      },
+      {
+        "url": "Lorem.png",
+        "description": "Ipsum labore fugiat consequat adipisicing enim velit proident laboris amet adipisicing minim enim. Veniam pariatur commodo esse incididunt qui officia laboris."
+      },
+      {
+        "url": "sunt.png",
+        "description": "Minim quis et deserunt exercitation est incididunt minim sunt. Duis aute minim occaecat do dolor id sit veniam veniam dolore."
+      }
+    ]
+  }
+]

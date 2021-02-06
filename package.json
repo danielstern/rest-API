@@ -1,0 +1,30 @@
+{
+  "name": "04b-rest-API",
+  "version": "1.0.0",
+  "description": "> REST API, database of Products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-products": "babel-node database/utility/generateProducts",
+    "init-db": "babel-node database/utility/initializeDatabase",
+    "start": "babel-node api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "lorem-ipsum": "^2.0.3",
+    "mongodb": "^3.6.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/node": "^7.12.13",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/preset-env": "^7.3.4",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^8.0.5"
+  }
+}

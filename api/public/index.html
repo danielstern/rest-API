@@ -1,0 +1,41 @@
+<style>
+    body {
+        margin:2rem;
+        background-color: black;
+        color: white;
+        font-size: 24;
+        font-family: 'Courier New', Courier, monospace;
+    }
+</style>
+<h1>
+    API Method Listing
+</h1>
+
+<h2>
+    Public Methods
+</h2>
+
+<div>
+    <a href="/products/detail/1234"><h3><code>GET products/detail/:SKU</code></h3></a>
+    <p>
+        Returns detailed information regarding the product with the specified SKU.
+    </p>
+</div>
+
+
+<div>
+    <a href="/products/search?color=Blue,Black"><h3><code>GET products/search[?criteria1=a&criteria2=b]</code></h3></a>
+    <p>
+        Return an array of products matching the provided criteria.
+    </p>
+</div>
+
+
+<div>
+    <a href="products/options/brand"><h3><code>GET products/options/:property</code></h3></a>
+    <p>
+
+        Returns all the possible listing options for a particular property, i.e., brand.
+
+    </p>
+</div>
