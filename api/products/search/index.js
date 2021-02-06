@@ -1,17 +1,18 @@
+import { toInteger } from 'lodash';
 import { getCollection } from '../../../database';
 
 export async function search(req,res){
 
     const ordinalProperties = ["color","size","brand"];
-    const minMaxProperties = ["minPrice","maxPrice"];
+    const minMaxProperties = ["minPrice","maxPrice","limit"];
     const validProperties = [...ordinalProperties,...minMaxProperties];
 
-    if (Object.keys(req.query).length === 0) {
+    // if (Object.keys(req.query).length === 0) {
 
-        res.json({error:"Please pass a query string consisting of desired values; i.e. ?color=blue"})
-        return;
+    //     res.json({error:"Please pass a query string consisting of desired values; i.e. ?color=blue"})
+    //     return;
 
-    };
+    // };
 
     for (let key in req.query) {
 
@@ -52,7 +53,8 @@ export async function search(req,res){
     const collection = await getCollection("store", "products");
     const productQuery = collection
         .find(dbQuery)
-        .project({SKU: 1, price: 1, brand: 1, color: 1, size: 1, quantity: 1, shortDescription: 1, mainImage: 1});
+        .project({SKU: 1, price: 1, brand: 1, color: 1, size: 1, quantity: 1, shortDescription: 1, mainImage: 1})
+        .limit(+req.query.limit || 10)
     const products = await productQuery.toArray();
 
     res.json(products);

@@ -6,6 +6,15 @@
         font-size: 24;
         font-family: 'Courier New', Courier, monospace;
     }
+
+    td {
+        border: 1px solid white;
+        padding: 1rem;
+    }
+
+    a:visited, a {
+        color: violet;
+    }
 </style>
 <h1>
     API Method Listing
@@ -38,4 +47,66 @@
         Returns all the possible listing options for a particular property, i.e., brand.
 
     </p>
+</div>
+
+<h2>Secure Methods</h2>
+
+<div>
+    <a href=""><h3><code>POST products/adjust/quantity</code></h3></a>
+    <p>
+
+        Adjust the remaining quantity of items available. Use when a sale has been made.
+
+    </p>
+
+    <h4>
+        POST Parameters
+    </h4>
+
+    <table>
+        <thead>
+            <td>
+                Parameter Name
+            </td>
+            <td>
+                Description
+            </td>
+            <td>
+                Example
+            </td>
+        </thead>
+        <tr>
+            <td>
+                token
+            </td>
+            <td>
+                Your secure token
+            </td>
+            <td>
+                "1234-5678"
+            </td>
+        </tr>
+        <tr>
+            <td>
+                SKU
+            </td>
+            <td>
+                The SKU (Stock Keeping Unit) of the product you want to modify
+            </td>
+            <td>
+                "abcd-efgh"
+            </td>
+        </tr>
+        <tr>
+            <td>
+                count
+            </td>
+            <td>
+                The amount to adjust the product count by.
+            </td>
+            <td>
+                -2
+            </td>
+        </tr>
+    </table>
 </div>

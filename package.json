@@ -4,8 +4,7 @@
   "description": "> REST API, database of Products",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "generate-products": "babel-node database/utility/generateProducts",
+    "test": "babel-node api/products/adjust/quantity/index.spec.js",
     "init-db": "babel-node database/utility/initializeDatabase",
     "start": "babel-node api"
   },
@@ -13,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "lodash": "^4.17.20",
     "lorem-ipsum": "^2.0.3",

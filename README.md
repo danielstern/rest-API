@@ -24,7 +24,13 @@
 6. Create express file
 7. Required of express API
    1. Get products by brand (not detailed)
-   2. Get products by type (every dimension?)
+   2. Get products by type (every dimension)
    3. reduce product quantity
    4. get single product detail
-<!-- 7. Get products -->
+8. Add POST method
+
+#POSSIBLE ADDITIONAL FEATURES (or possible scope creep)
+1. Include POST method
+    - Much harder to test, but important
+    - Not a skill developer can be without
+2. Include secure route
