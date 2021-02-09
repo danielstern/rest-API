@@ -2,7 +2,7 @@ import { getProductsCollection, getCollection } from '../../../../database';
 
 export async function adjustQuantity(req,res){
 
-    const { SKU, token } = req.body.SKU;
+    const { SKU, token } = req.body;
     const tokens = await getCollection('auth', 'tokens');
     const auth = await tokens.findOne({value:token});
 
